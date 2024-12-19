@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I'm Hogeun Lee, a passionate backend developer exploring new challenges in Spring Boot and server side technologies.</li></li>🏫 Soongsil Univ. CSE 21</li></li>✉️ aa020228@gmail.com </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I'm Hogeun Lee, a passionate backend developer exploring new challenges in Spring Boot and server side technologies.<br></li></li>🏫 Soongsil Univ. CSE 21<br></li></li>✉️ aa020228@gmail.com </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -23,7 +23,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/259lhg/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/259lhg/"> </a>
          <a href=https://velog.io/@2ghrms/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@2ghrms/posts"> </a>
-         <a href=https://believed-poinsettia-f0f.notion.site/Hi-I-m-Hogeun-01f35970f47e45a89e2f41a9142aa489?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://believed-poinsettia-f0f.notion.site/Hi-I-m-Hogeun-01f35970f47e45a89e2f41a9142aa489?pvs=4"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
