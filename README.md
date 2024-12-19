@@ -1,6 +1,11 @@
-<div align= "center"> 
+<div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi, I'm Hogeun Lee, a passionate backend developer exploring new challenges in Spring Boot and server side technologies.</li></li>🏫 Soongsil Univ. CSE 21</li></li>✉️ aa020228@gmail.com </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        Hi, I'm Hogeun Lee, a passionate backend developer exploring new challenges in Spring Boot and server-side technologies.<br>
+        🏫 Soongsil Univ. CSE 21<br>
+        ✉️ aa020228@gmail.com 
+    </div> 
+</div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
