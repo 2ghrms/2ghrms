@@ -65,10 +65,10 @@
             <li><strong>SPLUG, Soongsil University Computer Science Club</strong> <br>
                 <span style="font-size: 13px; color: gray;">2021.03 ~ 2021.12</span>
             </li>
-            <li style="margin-top: 10px;"><strong>OceanSoft Co., Project Manager Intern (SI Outsourcing Company)</strong> <br>
+            <li style="margin-top: 10px;"><strong>OceanSoft Co., Project Manager(SI Outsourcing Company)</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.06 ~ 2024.09</span>
             </li>
-            <li style="margin-top: 10px;"><strong>Director of Planning, IT College Student Council</strong> <br>
+            <li style="margin-top: 10px;"><strong>Planning Director, IT College Student Council</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.01 ~ 2024.12</span>
             </li>
             <li style="margin-top: 10px;"><strong>SSCC, Soongsil University Central Computer Club</strong> <br>
@@ -87,9 +87,9 @@
         <ul style="list-style-type: none; padding: 0;">
             <li><strong>SPLUG Seminar Achievement, Soongsil University Computer Science Club, 2021.11</strong> <br>
                 <span style="font-size: 13px; color: gray;">2nd Place</span>
-                <br><code>'Unity: 2D game programming' (Seminar Presentation and Cloning)</code>
+                <br><code>'Unity: 2D game programming' (Seminar Presentation and Code Cloning)</code>
             </li>
-            <li style="margin-top: 10px;"><strong>Public Data Utilization Idea Competition, hosted by the Ministry of Trade, Industry, and Energy, Korea</span>, 2024.07</strong> <br>
+            <li style="margin-top: 10px;"><strong>Public Data Utilization Idea Competition, hosted by the Ministry of Trade, Industry and Energy, Korea</span>, 2024.07</strong> <br>
                 <span style="font-size: 13px; color: gray;">Participated</span>
                 <br><code>'Gaegebu Mongi: AI Consumption Management Chatbot' (Idea Planning)</code> <br>
                 <span style="font-size: 12px; color: gray;">
