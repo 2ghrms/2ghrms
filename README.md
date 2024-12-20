@@ -74,7 +74,7 @@
             <li style="margin-top: 10px;"><strong>SSCC, Soongsil University Central Computer Club</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.03 ~ </span>
             </li>
-            <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Developer</strong> <br>
+            <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Part</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.09 ~ </span>
             </li>
         </ul>
