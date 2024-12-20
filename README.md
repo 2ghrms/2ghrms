@@ -21,6 +21,12 @@
           </div>
     </div>
     <div style="text-align: left;">
+        <h3 align="center">📚 Studying</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/259lhg/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/259lhg/"> </a>
          <a href=https://velog.io/@2ghrms/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@2ghrms/posts"> </a>
