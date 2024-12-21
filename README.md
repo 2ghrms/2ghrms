@@ -91,7 +91,7 @@
                 <span style="font-size: 13px; color: gray;">2nd Place</span>
                 <br><code>'Unity: 2D game programming' (Seminar Presentation and Code Cloning)</code>
             </li>
-            <li style="margin-top: 10px;"><strong>Information Processing Craftsman Certification, Korea</span>, 2023.05</strong> <br>
+            <li style="margin-top: 10px;"><strong>Information Processing Craftsman Certification, Korea</span>, 2023.06</strong> <br>
                 <span style="font-size: 13px; color: gray;">Certification Acquired</span>
             </li>
             <li style="margin-top: 10px;"><strong>Public Data Utilization Idea Competition, hosted by the Ministry of Trade, Industry and Energy, Korea</span>, 2024.07</strong> <br>
