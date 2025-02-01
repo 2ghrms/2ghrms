@@ -40,8 +40,6 @@
 <div style="text-align: left;"> 
     <h2 align="left">📚 Studying</h2>
     <div style="text-align: left;"> 
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />&nbsp;
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />&nbsp;
