@@ -105,6 +105,10 @@
                 <span style="font-size: 13px; color: gray;">2nd Place</span>
                 <br><code>'The Dark Side of Military Artificial Intelligence: Risks and Ethical Concerns' (Presentation)</code>
             </li>
+            <li style="margin-top: 10px;"><strong>CES 2025 (Consumer Electronics Show), Las Vegas, USA</strong> <br>
+                <span style="font-size: 13px; color: gray;">Attended</span>
+                <br><code>'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit & Networking)</code>
+            </li>
         </ul>
     </div> 
 </div>
