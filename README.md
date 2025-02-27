@@ -75,7 +75,7 @@
                 <span style="font-size: 13px; color: gray;">2024.03 ~ </span>
             </li>
             <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Part</strong> <br>
-                <span style="font-size: 13px; color: gray;">2024.09 ~ </span>
+                <span style="font-size: 13px; color: gray;">2024.09 ~ 2025.02</span>
             </li>
         </ul>
     </div> 
