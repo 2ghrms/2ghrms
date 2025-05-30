@@ -74,8 +74,11 @@
             <li style="margin-top: 10px;"><strong>SSCC, Soongsil University Central Computer Club</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.03 ~ </span>
             </li>
-            <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Part</strong> <br>
+            <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Part Challenger</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.09 ~ 2025.02</span>
+            </li>
+            <li style="margin-top: 10px;"><strong>UMC 8th, Spring Boot Part Senior</strong> <br>
+                <span style="font-size: 13px; color: gray;">2025.03 ~</span>
             </li>
         </ul>
     </div> 
