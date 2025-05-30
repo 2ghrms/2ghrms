@@ -17,7 +17,10 @@
 <!-- Frameworks & Libraries -->
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
+        <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white">
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
@@ -26,7 +29,6 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
         <br/>
