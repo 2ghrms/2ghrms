@@ -88,7 +88,7 @@
     <h2 align="left">📚 Achievements & Activities</h2>
     <div style="text-align: left;"> 
         <ul style="list-style-type: none; padding: 0;">
-            <li><strong>SPLUG Seminar Achievement, Soongsil University Computer Science Club, 2021.11</strong> <br>
+            <li><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club, 2021.11</strong> <br>
                 <span style="font-size: 13px; color: gray;">2nd Place</span>
                 <br><code>'Unity: 2D game programming' (Seminar Presentation and Code Cloning)</code>
             </li>
