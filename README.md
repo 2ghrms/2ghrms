@@ -112,6 +112,10 @@
                 <span style="font-size: 13px; color: gray;">Attended</span>
                 <br><code>'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit & Networking)</code>
             </li>
+            <li style="margin-top: 10px;"><strong>Soongsil University Software Competition, 2025.07</strong> <br>
+                <span style="font-size: 13px; color: gray;">1st Place (Gold Prize)</span>
+                <br><code>'Sonmaeum: Handwriting Archiving Web Service' (OCR-based Text Preservation for Personal Letters and Memories)</code>
+            </li>        
         </ul>
     </div> 
 </div>
