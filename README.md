@@ -79,7 +79,7 @@
             <li style="margin-top: 10px;"><strong>UMC 9th, Soongsil Univ. Chapter, Spring Boot Part Leader (University Students Developers’ Union Club)</strong> <br>
                 <span style="font-size: 13px; color: gray;">2025.08 ~ </span>
             </li>
-            <li style="margin-top: 10px;"><strong>Kusitms 32nd, Backend Part (Korean University Students IT, Management Society)</strong> <br>
+            <li style="margin-top: 10px;"><strong>KUSITMS 32nd, Backend Part (Korean University Students IT, Management Society)</strong> <br>
                 <span style="font-size: 13px; color: gray;">2025.08 ~ </span>
             </li>
         </ul>
