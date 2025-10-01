@@ -54,11 +54,11 @@
     </div>
 </div>
 <br>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Experiences </h2> 
-    <div style="font-size: 14px; color: #282d33; text-align: left;">
+<details>
+  <summary><h2 style="color: #282d33; border-bottom: 1px solid #d8dee4; padding-bottom: 3px;"> 💼 Experiences </h2></summary>
+  <div style="font-size: 14px; color: #282d33; text-align: left;">
         <ul style="list-style-type: none; padding: 0;">
-            <li><strong>SPLUG, Soongsil University Computer Science Club</strong> <br>
+            <li><strong>SPLUG, Soongsil Power Linux User Group</strong> <br>
                 <span style="font-size: 13px; color: gray;">2021.03 ~ 2021.12</span>
             </li>
             <li style="margin-top: 10px;"><strong>OceanSoft Co., Project Manager (SI Outsourcing Company)</strong> <br>
@@ -67,7 +67,7 @@
             <li style="margin-top: 10px;"><strong>Planning Director, IT College Student Council</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.01 ~ 2024.12</span>
             </li>
-            <li style="margin-top: 10px;"><strong>SSCC, Soongsil University Central Computer Club</strong> <br>
+            <li style="margin-top: 10px;"><strong>SSCC, Soongsil Central Computer Club</strong> <br>
                 <span style="font-size: 13px; color: gray;">2024.03 ~ </span>
             </li>
             <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Part Challenger (University Students Developers’ Union Club)</strong> <br>
@@ -82,13 +82,12 @@
             <li style="margin-top: 10px;"><strong>KUSITMS 32nd, Backend Part (Korean University Students IT, Management Society)</strong> <br>
                 <span style="font-size: 13px; color: gray;">2025.08 ~ </span>
             </li>
-        </ul>
-    </div> 
-</div>
-<br>
-<div style="text-align: left;"> 
-    <h2 align="left">📚 Achievements & Activities</h2>
-    <div style="text-align: left;"> 
+    </ul>
+  </div>
+</details>
+<details>
+  <summary><h2 style="color: #282d33;"> 📚 Achievements & Activities </h2></summary>
+  <div style="margin-left: 15px; text-align: left;"> 
 <details>
   <summary><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club, 2021.11</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">2nd Place</span><br>
@@ -124,23 +123,33 @@
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Sonmaeum: Handwriting Archiving Web Service' (OCR-based Text Preservation for Personal Letters and Memories)</code>
 </details>
 <details>
-  <summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University, 2025.08</strong></summary>
+  <summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University, since 2025.08</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Excellence Award</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'iCozy: Online Attachment Doll-based Child Psychological Counseling & Care Service'</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'iCozy: Online Attachment Doll-based Child Psychological Counseling & Care Service'</code><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Participated in Soongsil University 2025 Pre-Startup Incubation Program</span>
 </details>
 <details>
-  <summary><strong>Team HaRu, Backend Developer, since 2025.07</strong></summary>
+  <summary><strong>Team HaRu, Backend Developer, 2025.07</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">UMC 8th Demoday Project - Special Prize</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'HaRu: All-In-One Operation Management Platform for Small Teams' (<a href="http://haru.it.kr" target="_blank">haru.it.kr</a>)</code>
 </details>
-    </div> 
-</div>
+<details>
+  <summary><strong>SQL Developer Certification, Korea, 2025.09</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
+</details>
+<details>
+  <summary><strong>AWS Certified Cloud Practitioner, 2025.10</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
+</details>
+  </div>
+</details>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
         <img src="https://github-readme-stats.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ghrms&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide=javascript,typescript" style="display: inline-block; margin-right: 10px;"/> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-top: 10px;"> 
+        <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/90829139-5105-4510-903e-e34168241c19" />
     </div> 
 </div>
 <br>
