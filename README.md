@@ -55,6 +55,26 @@
 </div>
 <br>
 <details>
+  <summary><h2 style="color: #282d33; border-bottom: 1px solid #d8dee4;"> 📘 Study Notes </h2></summary>
+  <div style="margin-left: 15px; text-align: left; font-size: 14px; color: #282d33;">
+      <p>Organized records of university coursework and self-learning progress.</p>
+      <details>
+        <summary><strong>🎓 SSU CSE Major Courses & Gen Ed</strong></summary>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span>- Notes and summaries of major and general education courses at Soongsil University.</span><br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b" target="_blank">
+                <img src="https://img.shields.io/badge/View%20on%20Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+            </a>
+      </details>
+      <details>
+        <summary><strong>🧠 TIL (Today I Learned)</strong></summary>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span>- Currently studying the Spring Framework and exploring Hexagonal Architecture for building robust backend systems.</span><br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://believed-poinsettia-f0f.notion.site/Part-1-282b722de71e801a9c54dd2586732369?pvs=73" target="_blank">
+                <img src="https://img.shields.io/badge/View%20TIL%20Archive-000000?style=flat-square&logo=Notion&logoColor=white">
+            </a>
+      </details>
+  </div>
+</details>
+<details>
   <summary><h2 style="color: #282d33; border-bottom: 1px solid #d8dee4; padding-bottom: 3px;"> 💼 Experiences </h2></summary>
   <div style="font-size: 14px; color: #282d33; text-align: left;">
         <ul style="list-style-type: none; padding: 0;">
