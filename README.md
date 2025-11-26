@@ -169,7 +169,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;"/> 
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ghrms&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide=javascript,typescript" style="display: inline-block; margin-right: 10px;"/> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-top: 10px;"> 
         <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/90829139-5105-4510-903e-e34168241c19" />
