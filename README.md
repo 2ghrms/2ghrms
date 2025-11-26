@@ -16,12 +16,14 @@
         <br/>
 <!-- Frameworks & Libraries -->
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
         <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white">
+        <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white">
         <br/>
@@ -79,86 +81,87 @@
   <div style="font-size: 14px; color: #282d33; text-align: left;">
         <ul style="list-style-type: none; padding: 0;">
             <li><strong>SPLUG, Soongsil Power Linux User Group</strong> <br>
-                <span style="font-size: 13px; color: gray;">2021.03 ~ 2021.12</span>
+                <span style="font-size: 13px; color: gray;">MAR 2021 - DEC 2021</span>
             </li>
             <li style="margin-top: 10px;"><strong>OceanSoft Co., Project Manager (SI Outsourcing Company)</strong> <br>
-                <span style="font-size: 13px; color: gray;">2024.06 ~ 2024.09</span>
+                <span style="font-size: 13px; color: gray;">JUN 2024 - SEP 2024</span>
             </li>
             <li style="margin-top: 10px;"><strong>Planning Director, IT College Student Council</strong> <br>
-                <span style="font-size: 13px; color: gray;">2024.01 ~ 2024.12</span>
+                <span style="font-size: 13px; color: gray;">JAN 2024 - DEC 2024</span>
             </li>
             <li style="margin-top: 10px;"><strong>SSCC, Soongsil Central Computer Club</strong> <br>
-                <span style="font-size: 13px; color: gray;">2024.03 ~ </span>
+                <span style="font-size: 13px; color: gray;">MAR 2024 - Present</span>
             </li>
             <li style="margin-top: 10px;"><strong>UMC 7th, Spring Boot Part Challenger (University Students Developers’ Union Club)</strong> <br>
-                <span style="font-size: 13px; color: gray;">2024.09 ~ 2025.02</span>
+                <span style="font-size: 13px; color: gray;">SEP 2024 - FEB 2025</span>
             </li>
             <li style="margin-top: 10px;"><strong>UMC 8th, Spring Boot Part Senior (University Students Developers’ Union Club)</strong> <br>
-                <span style="font-size: 13px; color: gray;">2025.03 ~ 2025.08</span>
+                <span style="font-size: 13px; color: gray;">MAR 2025 - AUG 2025</span>
             </li>
             <li style="margin-top: 10px;"><strong>UMC 9th, Soongsil Univ. Chapter, Spring Boot Part Leader (University Students Developers’ Union Club)</strong> <br>
-                <span style="font-size: 13px; color: gray;">2025.08 ~ </span>
+                <span style="font-size: 13px; color: gray;">AUG 2025 - Present</span>
             </li>
             <li style="margin-top: 10px;"><strong>KUSITMS 32nd, Backend Part (Korean University Students IT, Management Society)</strong> <br>
-                <span style="font-size: 13px; color: gray;">2025.08 ~ </span>
+                <span style="font-size: 13px; color: gray;">AUG 2025 - Present</span>
             </li>
     </ul>
   </div>
 </details>
+
 <details>
   <summary><h2 style="color: #282d33;"> 📚 Achievements & Activities </h2></summary>
   <div style="margin-left: 15px; text-align: left;"> 
 <details>
-  <summary><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club, 2021.11</strong></summary>
+  <summary><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club, NOV 2021</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">2nd Place</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Unity: 2D game programming' (Seminar Presentation and Code Cloning)</code>
 </details>
 <details>
-  <summary><strong>Information Processing Craftsman Certification, Korea, 2023.06</strong></summary>
+  <summary><strong>Information Processing Craftsman Certification, Korea, JUN 2023</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
 </details>
 <details>
-  <summary><strong>ICT English Project Presentation Contest, 2024.12</strong></summary>
+  <summary><strong>ICT English Project Presentation Contest, DEC 2024</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">2nd Place</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'The Dark Side of Military Artificial Intelligence: Risks and Ethical Concerns' (Presentation)</code>
 </details>
 <details>
-  <summary><strong>CES 2025 (Consumer Electronics Show), Las Vegas, USA</strong></summary>
+  <summary><strong>CES 2025 (Consumer Electronics Show), Las Vegas, USA, JAN 2025</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Attended & Report Authored</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit, Networking & Report Writing)</code>
 </details>
 <details>
-  <summary><strong>Team Clokey, Backend Developer, since 2025.01</strong></summary>
+  <summary><strong>Team Clokey, Backend Developer, JAN 2025 - Present</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">UMC 7th Demoday Project</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Clokey: Smart Closet Management Service' (iOS App Release - <a href="https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676" target="_blank">App Store Link</a>)</code>
 </details>
 <details>
-  <summary><strong>Team ASSU, Full Stack Developer (Android + Spring Boot), since 2025.05</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Soongsil University 2025 IT Project (Target: Service Launch & Operation)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'ASSU: All-in-One Partnership Management Platform between University Students and Local Businesses'</code>
+  <summary><strong>Team ASSU, Full Stack Developer (Android + Spring Boot), MAY 2025 - Present</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Awarded in Soongsil University IT Project Competition(Target: Service Launch & Operation), NOV 2025</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'ASSU: All-in-One Partnership Management Platform between University Students and Local Businesses' (Android App Release - <a href="https://play.google.com/store/apps/details?id=com.ssu.assu" target="_blank">Play Store Link</a>)</code>
 </details>
 <details>
-  <summary><strong>Soongsil University Software Competition, 2025.07</strong></summary>
+  <summary><strong>Soongsil University Software Competition, JUL 2025</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">1st Place (Gold Prize)</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Sonmaeum: Handwriting Archiving Web Service' (OCR-based Text Preservation for Personal Letters and Memories)</code>
 </details>
 <details>
-  <summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University, since 2025.08</strong></summary>
+  <summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University, AUG 2025 - Present</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Excellence Award</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'iCozy: Online Attachment Doll-based Child Psychological Counseling & Care Service'</code><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Participated in Soongsil University 2025 Pre-Startup Incubation Program</span>
 </details>
 <details>
-  <summary><strong>Team HaRu, Backend Developer, 2025.07</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">UMC 8th Demoday Project - Special Prize</span><br>
+  <summary><strong>Team HaRu, Backend Developer, JUL 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">UMC 8th Demoday Project - Special Prize</span><br>  
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'HaRu: All-In-One Operation Management Platform for Small Teams' (<a href="http://haru.it.kr" target="_blank">haru.it.kr</a>)</code>
 </details>
 <details>
-  <summary><strong>SQL Developer Certification, Korea, 2025.09</strong></summary>
+  <summary><strong>SQL Developer Certification, SEP 2025</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
 </details>
 <details>
-  <summary><strong>AWS Certified Cloud Practitioner, 2025.10</strong></summary>
+  <summary><strong>AWS Certified Cloud Practitioner, OCT 2025</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
 </details>
   </div>
