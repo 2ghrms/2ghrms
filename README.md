@@ -14,13 +14,17 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <br/>
-<!-- Frameworks & Libraries -->
+<!-- Frameworks -->
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/MyBatis-4B8BBE?style=flat-square&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+        <br/>
+<!-- Libraries -->
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
         <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white">
         <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white">
@@ -161,8 +165,17 @@
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
 </details>
 <details>
+  <summary><strong>LG x KUSITMS Industry-Academia Collaboration, SEP 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Best Practice Award</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'LifeZip Improvement Project' Backend Developer (Image Optimization via Serverless Functions)</code>
+</details>
+<details>
   <summary><strong>AWS Certified Cloud Practitioner, OCT 2025</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
+</details>
+<details>
+  <summary><strong>TOPCIT(Test of Practical Competency in IT), NOV 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Score 664 • Level 4 (Proficient) • Problem-Solving Track</span>
 </details>
   </div>
 </details>
