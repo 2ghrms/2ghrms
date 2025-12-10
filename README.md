@@ -52,8 +52,6 @@
 <div style="text-align: left;"> 
     <h2 align="left">📚 Studying</h2>
     <div style="text-align: left;"> 
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />&nbsp;
@@ -118,7 +116,7 @@
 <details>
   <summary><strong>Team Starlight, Backend Developer, OCT 2025 - Present</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">KUSITMS 32nd Best Prize</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Starlight: Business Plan Platform to Illuminate Startups'</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Starlight: Business Plan Platform to Star Startups'</code>
 </details>
 <details>
   <summary><strong>Team ASSU, Full Stack Developer (Android + Spring Boot), MAY 2025 - Present</strong></summary>
@@ -131,21 +129,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Clokey: Smart Closet Management Service' (iOS App Release - <a href="https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676" target="_blank">App Store Link</a>)</code>
 </details>
 <details>
-  <summary><strong>TOPCIT(Test of Practical Competency in IT), NOV 2025</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Score 664 • Level 4 (Proficient) • Problem-Solving Track</span>
-</details>
-<details>
-  <summary><strong>AWS Certified Cloud Practitioner, OCT 2025</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
-</details>
-<details>
   <summary><strong>LG x KUSITMS Industry-Academia Collaboration, SEP 2025</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Best Practice Award</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'LifeZip Improvement Project' Backend Developer (Image Optimization via Serverless Functions)</code>
-</details>
-<details>
-  <summary><strong>SQL Developer Certification, SEP 2025</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
 </details>
 <details>
   <summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University, AUG 2025</strong></summary>
@@ -164,18 +150,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Sonmaeum: Handwriting Archiving Web Service' (OCR-based Text Preservation for Personal Letters and Memories)</code>
 </details>
 <details>
-  <summary><strong>CES 2025 (Consumer Electronics Show), Las Vegas, USA, JAN 2025</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Attended & Report Authored</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit, Networking & Report Writing)</code>
-</details>
-<details>
   <summary><strong>ICT English Project Presentation Contest, DEC 2024</strong></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">2nd Place</span><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- <code>'The Dark Side of Military Artificial Intelligence: Risks and Ethical Concerns' (Presentation)</code>
-</details>
-<details>
-  <summary><strong>Information Processing Craftsman Certification, Korea, JUN 2023</strong></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
 </details>
 <details>
   <summary><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club, NOV 2021</strong></summary>
@@ -184,11 +161,36 @@
 </details>
   </div>
 </details>
+<details>
+  <summary><h2 style="color: #282d33;"> 📜 Qualifications & Training </h2></summary>
+  <div style="margin-left: 15px; text-align: left;"> 
+<details>
+  <summary><strong>TOPCIT(Test of Practical Competency in IT), NOV 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Score 664 • Level 4 (Proficient) • Problem-Solving Track</span>
+</details>
+<details>
+  <summary><strong>AWS Certified Cloud Practitioner Certification, OCT 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
+</details>
+<details>
+  <summary><strong>SQL Developer Certification, SEP 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
+</details>
+<details>
+  <summary><strong>CES 2025 (Consumer Electronics Show), Las Vegas, USA, JAN 2025</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Attended & Report Authored</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <code>'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit, Networking & Report Writing)</code>
+</details>
+<details>
+  <summary><strong>Information Processing Craftsman Certification, Korea, JUN 2023</strong></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <span style="font-size: 13px; color: gray;">Certification Acquired</span>
+</details>
+  </div>
+</details>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ghrms&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide=javascript,typescript" style="display: inline-block; margin-right: 10px;"/> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-top: 10px;"> 
         <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/90829139-5105-4510-903e-e34168241c19" />
     </div> 
