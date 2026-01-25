@@ -1,8 +1,14 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I'm Hogeun Lee, a passionate backend developer eager to explore new challenges in Spring Boot and server-side technologies.<br><br></li></li>🏫 Soongsil Univ. CSE 21<br></li></li>✉️ aa020228@gmail.com 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        Hi, I'm Hogeun Lee, a passionate backend developer eager to explore new challenges in Spring Boot and server-side technologies.<br><br>
+        🏫 Soongsil Univ. CSE 21<br>
+        🎓 Visiting Student, Illinois Institute of Technology (Spring 2026 - Present)<br>
+        📍 Currently based in Chicago, IL, USA<br>
+        ✉️ aa020228@gmail.com
     </div> 
 </div>
+
 <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
@@ -63,7 +69,7 @@
   <div style="margin-left: 15px; text-align: left; font-size: 14px; color: #282d33;">
       <p>Organized records of university coursework and self-learning progress.</p>
       <details>
-        <summary><strong>🎓 SSU CSE Major Courses & Gen Ed</strong></summary>
+        <summary><strong>🎓 CSE Major Courses & Gen Ed</strong></summary>
             &nbsp;&nbsp;&nbsp;&nbsp;<span>- Notes and summaries of major and general education courses at Soongsil University.</span><br><br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b" target="_blank">
                 <img src="https://img.shields.io/badge/View%20on%20Notion-000000?style=flat-square&logo=Notion&logoColor=white">
@@ -82,6 +88,18 @@
   <summary><h2 style="color: #282d33; border-bottom: 1px solid #d8dee4; padding-bottom: 3px;"> 💼 Experiences </h2></summary>
   <div style="font-size: 14px; color: #282d33; text-align: left;">
         <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-top: 10px;">
+                <strong>Association for Computing Machinery (ACM) @ Illinois Tech</strong> <br>
+                <span style="font-size: 13px; color: gray;">JAN 2026 - Present</span><br>
+            </li>
+            <li style="margin-top: 10px;">
+                <strong>Google Student Developers @ Illinois Tech (with GDG)</strong> <br>
+                <span style="font-size: 13px; color: gray;">JAN 2026 - Present</span><br>
+            </li>
+            <li style="margin-top: 10px;">
+                <strong>Machine Learning Club @ Illinois Tech</strong> <br>
+                <span style="font-size: 13px; color: gray;">JAN 2026 - Present</span><br>
+            </li>
             <li style="margin-top: 10px;"><strong>UMC 9th, Soongsil Univ. Chapter, Spring Boot Part Leader (University Students Developers’ Union Club)</strong> <br>
                 <span style="font-size: 13px; color: gray;">AUG 2025 - Present</span>
             </li>
