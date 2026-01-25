@@ -2,9 +2,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         Hi, I'm Hogeun Lee, a passionate backend developer eager to explore new challenges in Spring Boot and server-side technologies.<br><br>
-        🏫 Soongsil Univ. CSE 21<br>
-        🎓 Visiting Student, Illinois Institute of Technology (Spring 2026 - Present)<br>
-        📍 Currently based in Chicago, IL, USA<br>
+        🏫 Soongsil University — B.S. in Computer Science Engineering<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Seoul, South Korea</code> | Spring 2021 - Present<br><br>
+        🎓 Visiting Student, Illinois Institute of Technology — Computer Science<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Chicago, IL, USA</code> | Spring 2026 - Present<br><br>
+        📍 Currently based in <code>Chicago, IL, USA</code><br><br>
         ✉️ aa020228@gmail.com
     </div> 
 </div>
