@@ -27,6 +27,9 @@
         <br/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white">
+        <img src="https://img.shields.io/badge/MyBatis-4B8BBE?style=flat-square&logo=oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
@@ -34,18 +37,23 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <br/>
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
-        <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white">
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
+        <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle%20Cloud-808080?style=flat-square&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white">
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=Pinecone&logoColor=white">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
