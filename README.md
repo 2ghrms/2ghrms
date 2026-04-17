@@ -16,43 +16,38 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     <p style="font-size: 14px; color: #282d33;">Techs that I've used at least once.</p>
     <div style="margin: ; text-align: left;">
-        <!-- Programming Languages -->
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
         <br/>
-        <!-- Backend Frameworks -->
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/MyBatis-4B8BBE?style=flat-square&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <br/>
-        <!-- Search & Messaging -->
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
         <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white">
         <br/>
-        <!-- Databases -->
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
         <br/>
-        <!-- Cloud & Infrastructure -->
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle%20Cloud-808080?style=flat-square&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
         <br/>
-        <!-- DevOps & Tools -->
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white">
         <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
@@ -98,21 +93,18 @@
         <ul style="list-style-type: none; padding: 0;">
             <li style="margin-top: 10px;">
                 <strong>Association for Computing Machinery (ACM) @ Illinois Tech</strong> <br>
-                <span style="font-size: 13px; color: gray;">JAN 2026 - Present</span><br>
+                <span style="font-size: 13px; color: gray;">JAN 2026 - MAY 2026</span><br>
             </li>
             <li style="margin-top: 10px;">
                 <strong>Google Student Developers @ Illinois Tech (with GDG)</strong> <br>
-                <span style="font-size: 13px; color: gray;">JAN 2026 - Present</span><br>
+                <span style="font-size: 13px; color: gray;">JAN 2026 - MAY 2026</span><br>
             </li>
             <li style="margin-top: 10px;">
                 <strong>Machine Learning Club @ Illinois Tech</strong> <br>
-                <span style="font-size: 13px; color: gray;">JAN 2026 - Present</span><br>
+                <span style="font-size: 13px; color: gray;">JAN 2026 - MAY 2026</span><br>
             </li>
             <li style="margin-top: 10px;"><strong>UMC 9th, Soongsil Univ. Chapter, Spring Boot Part Leader (University Students Developers’ Union Club)</strong> <br>
-                <span style="font-size: 13px; color: gray;">AUG 2025 - Present</span>
-            </li>
-            <li style="margin-top: 10px;"><strong>SSCC, Soongsil Central Computer Club</strong> <br>
-                <span style="font-size: 13px; color: gray;">MAR 2024 - Present</span>
+                <span style="font-size: 13px; color: gray;">AUG 2025 - FEB 2026</span>
             </li>
             <li style="margin-top: 10px;"><strong>KUSITMS 32nd, Backend Part (Korean University Students IT, Management Society)</strong> <br>
                 <span style="font-size: 13px; color: gray;">AUG 2025 - DEC 2025</span>
@@ -125,6 +117,9 @@
             </li>
             <li style="margin-top: 10px;"><strong>OceanSoft Co., Project Manager (SI Outsourcing Company)</strong> <br>
                 <span style="font-size: 13px; color: gray;">JUN 2024 - SEP 2024</span>
+            </li>
+            <li style="margin-top: 10px;"><strong>SSCC, Soongsil Central Computer Club</strong> <br>
+                <span style="font-size: 13px; color: gray;">MAR 2024 - Present</span>
             </li>
             <li style="margin-top: 10px;"><strong>Planning Director, IT College Student Council</strong> <br>
                 <span style="font-size: 13px; color: gray;">JAN 2024 - DEC 2024</span>
