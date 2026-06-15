@@ -11,7 +11,6 @@
 <details>
   <summary><h3 style="display: inline; color: #282d33;">🛠️ Tech Stacks</h3></summary>
   <div style="margin-left: 15px; margin-top: 10px; font-size: 14px;">
-    <blockquote>Techs that I've used at least once.</blockquote>
     <h3>Languages</h3>
     <p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
