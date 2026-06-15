@@ -17,32 +17,32 @@
 <details>
   <summary><h3 style="display: inline; color: #282d33;">🛠️ Tech Stacks</h3></summary>
   <div style="margin-left: 15px; margin-top: 10px; font-size: 14px;">
-    <h3>Languages</h3>
+    <h4>Languages</h4>
     <p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
     </p>
-    <h3>Backend Frameworks & Technologies</h3>
+    <h4>Backend Frameworks & Tech</h4>
     <p>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-4B8BBE?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
     </p>
-    <h3>Databases, Brokers & Search Engines</h3>
+    <h4>Databases, Brokers & Search Engines</h4>
     <p>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white"> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=Pinecone&logoColor=white">
     </p>
-    <h3>DevOps & Cloud Infrastructure</h3>
+    <h4>Cloud & DevOps</h4>
     <p>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-808080?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/K3s-FF6C37?style=flat-square&logo=Rancher&logoColor=white"> <img src="https://img.shields.io/badge/ArgoCD-FF224A?style=flat-square&logo=Argo&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-808080?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/K3s-FF6C37?style=flat-square&logo=Rancher&logoColor=white"> <img src="https://img.shields.io/badge/ArgoCD-FF224A?style=flat-square&logo=Argo&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white">
     </p>
   </div>
 </details>
 
-<details>
+<details open>
   <summary><h3 style="display: inline; color: #282d33;">💼 Experiences</h3></summary>
   <div style="margin-left: 15px; margin-top: 10px; font-size: 14px; line-height: 1.6; color: #282d33;">
     <details style="margin-bottom: 10px;">
       <summary><strong>CJ OliveNetworks AI CAMPUS — AI CLOUD WAVE (1st Season)</strong> <span style="font-size: 12px; color: gray;">| JUN 2026 - AUG 2026</span></summary>
       <div style="margin-left: 20px; margin-top: 5px;">
-        - <code>Infrastructure Basics, AIOps LLM Operations, AI Infrastructure Deployment Project</code>
+        - <code>Infrastructure</code> · <code>AIOps LLM Operations</code> · <code>AI Infrastructure Deployment Project</code>
       </div>
     </details>
     <details style="margin-bottom: 10px;">
@@ -56,9 +56,9 @@
     <details style="margin-bottom: 10px;">
       <summary><strong>UMC (University Students Developers’ Union Club) — Soongsil Univ. Chapter</strong> <span style="font-size: 12px; color: gray;">| SEP 2024 - FEB 2026</span></summary>
       <div style="margin-left: 20px; margin-top: 8px;">
-        - <strong>9th Season (Spring Boot Part Leader)</strong> | AUG 2025 - FEB 2026 : Led server architecture mentoring, hosted framework code reviews, and managed full-cycle product web-serving.<br>
-        - <strong>8th Season (Spring Boot Part Senior)</strong> | MAR 2025 - AUG 2025 : Participated as a core backend engineer, structured relational databases, and enhanced service API logics.<br>
-        - <strong>7th Season (Spring Boot Part Challenger)</strong> | SEP 2024 - FEB 2025 : Studied Spring Boot internals, query optimization with Spring Data JPA, and web server deployment basics.
+        - <strong>9th Season (Spring Boot Part Leader)</strong> | AUG 2025 - FEB 2026 : Hosted framework study sessions, led backend code reviews, and speaker at chapter tech seminars.<br>
+        - <strong>8th Season (Spring Boot Part Senior)</strong> | MAR 2025 - AUG 2025 : Completed advanced backend workbooks and participated in core server-side development and studies.<br>
+        - <strong>7th Season (Spring Boot Part Challenger)</strong> | SEP 2024 - FEB 2025 : Studied production-ready Spring Boot fundamentals and successfully shipped full-cycle team projects.
       </div>
     </details>
     <details style="margin-bottom: 10px;">
@@ -85,20 +85,19 @@
     <details style="margin-bottom: 10px;">
       <summary><strong>SSCC (Soongsil Central Computer Club)</strong> <span style="font-size: 12px; color: gray;">| MAR 2024 - PRESENT</span></summary>
       <div style="margin-left: 20px; margin-top: 5px;">
-        - Core member of the central computer academic club.<br>
-        - Participated in internal hackathons and core server engineering study groups.
+        - Participated in core technical book clubs, AWS cloud infrastructure studies, and team software hackathons/competitions.
       </div>
     </details>
     <details style="margin-bottom: 10px;">
       <summary><strong>Planning Director, IT College Student Council</strong> <span style="font-size: 12px; color: gray;">| JAN 2024 - DEC 2024</span></summary>
       <div style="margin-left: 20px; margin-top: 5px;">
-        - Directed student activities, planned tech seminars, and managed event budgets for the IT College.
+        - Directed major student body activities, organized chapter tech seminars, and managed large-scale community events.
       </div>
     </details>
     <details style="margin-bottom: 5px;">
       <summary><strong>SPLUG (Soongsil Power Linux User Group)</strong> <span style="font-size: 12px; color: gray;">| MAR 2021 - DEC 2021</span></summary>
       <div style="margin-left: 20px; margin-top: 5px;">
-        - Academic contributions regarding Linux server-side networking systems and code-cloning seminars.
+        - Studied C-based Linux core systems and contributed to academic advancement through seminar presentations.
       </div>
     </details>
   </div>
