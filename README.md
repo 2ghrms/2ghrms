@@ -36,7 +36,7 @@
   </div>
 </details>
 
-<details open>
+<details>
   <summary><h3 style="display: inline; color: #282d33;">💼 Experiences</h3></summary>
   <div style="margin-left: 15px; margin-top: 10px; font-size: 14px; line-height: 1.6; color: #282d33;">
     <details style="margin-bottom: 10px;">
