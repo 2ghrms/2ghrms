@@ -1,7 +1,7 @@
 <div style="text-align: left;"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 About Me </h3>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-       Hi, I'm Hogeun Lee, a passionate backend engineer focused on architectural trade-offs, robust server-side technologies, and cloud infrastructure.
+       Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about architectural trade-offs, robust server-side technologies, and cloud infrastructure.
     </div> 
 </div>
 <br>
@@ -19,19 +19,19 @@
   <div style="margin-left: 15px; margin-top: 10px; font-size: 14px;">
     <h4>Languages</h4>
     <p>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     </p>
     <h4>Backend Frameworks & Tech</h4>
     <p>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-4B8BBE?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
     </p>
     <h4>Databases, Brokers & Search Engines</h4>
     <p>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white"> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=Pinecone&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=MeiliSearch&logoColor=white"> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=Pinecone&logoColor=white">
     </p>
     <h4>Cloud & DevOps</h4>
     <p>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-808080?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/K3s-FF6C37?style=flat-square&logo=Rancher&logoColor=white"> <img src="https://img.shields.io/badge/ArgoCD-FF224A?style=flat-square&logo=Argo&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-808080?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/K3s-FF6C37?style=flat-square&logo=Rancher&logoColor=white"> <img src="https://img.shields.io/badge/ArgoCD-FF224A?style=flat-square&logo=Argo&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
     </p>
   </div>
 </details>
@@ -42,15 +42,18 @@
     <details style="margin-bottom: 10px;">
       <summary><strong>CJ OliveNetworks AI CAMPUS — AI CLOUD WAVE (1st Season)</strong> <span style="font-size: 12px; color: gray;">| JUN 2026 - AUG 2026</span></summary>
       <div style="margin-left: 20px; margin-top: 5px;">
-        - <code>Infrastructure</code> · <code>AIOps LLM Operations</code> · <code>AI Infrastructure Deployment Project</code>
+        <p style="margin: 0 0 8px 0; font-size: 13.5px; color: #57606a;">
+          Completed an intensive 10-week, 400-hour immersive tech program focused on enterprise AI cloud infrastructure.
+        </p>
+        - <code>Network & Infrastructure</code> · <code>AIOps LLM Operations</code> · <code>AI Infrastructure Deployment Project</code>
       </div>
     </details>
     <details style="margin-bottom: 10px;">
       <summary><strong>Illinois Institute of Technology (IIT) Tech Community</strong> <span style="font-size: 12px; color: gray;">| JAN 2026 - MAY 2026</span></summary>
       <div style="margin-left: 20px; margin-top: 5px;">
-        - <strong>Association for Computing Machinery (ACM) @ Illinois Tech</strong> (Member)<br>
-        - <strong>Google Student Developers @ Illinois Tech (with GDG)</strong> (Member)<br>
-        - <strong>Machine Learning Club @ Illinois Tech</strong> (Member)
+        - <strong>Association for Computing Machinery (ACM)</strong> (Member)<br>
+        - <strong>Google Student Developers</strong> (Member)<br>
+        - <strong>Machine Learning Club</strong> (Member)
       </div>
     </details>
     <details style="margin-bottom: 10px;">
