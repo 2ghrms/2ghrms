@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/English-README-2088FF?style=flat-square&logo=GitHub&logoColor=white)](./README.md) [![한국어](https://img.shields.io/badge/한국어-README-03C75A?style=flat-square&logo=GitHub&logoColor=white)](./README_KR.md)
+
 ### 🙌 About Me
 
 Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about architectural trade-offs, robust server-side technologies, and cloud infrastructure.
@@ -113,6 +115,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
     > Introduced hexagonal architecture \
     > Built supervisor-agent and RAG-based report generation with Spring AI \
+    > Contributed to the Spring AI open-source repository ([Issue #4754](https://github.com/spring-projects/spring-ai/issues/4754)) \
     > Designed for reliability using the Circuit Breaker pattern \
     > Reduced report generation time by 40% via parallel agent execution with Java threads \
     > Cut API calls by 90% and improved average query speed by 15% through query analysis
@@ -209,7 +212,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ---
 
-### 📜 Qualifications
+### 📜 Certifications
 - **TOPCIT(Test of Practical Competency in IT)** — Score 752 • Level 4 (Proficient) • Problem-Solving Track | MAY 2026
 - **AWS Certified Cloud Practitioner Certification** | OCT 2025
 - **SQL Developer Certification** | SEP 2025
