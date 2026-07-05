@@ -139,7 +139,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <summary><strong>Team Clokey, Backend Developer</strong> | JAN 2025 - JUN 2026</summary>
 
 - **When**: UMC 7th Demoday Project
-- **Overview**: Smart closet management service ([App Store Link](https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676))
+- **Overview**: Smart closet management service ([App Store Link](https://apps.apple.com/kr/app/codive/id6756431150))
 
     > Built multi-module DDD architecture \
     > Designed Spring Boot APIs with Flyway for database migrations \
