@@ -141,7 +141,7 @@ Hi, I'm Hogeun Lee.
 <summary><strong>Team Clokey, 백엔드 개발자</strong> | 2025.01 - 2026.06</summary>
 
 - **시기**: UMC 7기 데모데이 프로젝트
-- **개요**: 스마트한 옷장 관리 서비스 ([App Store 링크](https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676))
+- **개요**: 스마트한 옷장 관리 서비스 ([App Store 링크](https://apps.apple.com/kr/app/codive/id6756431150))
 
     > 멀티모듈 기반 DDD 아키텍처 구축 \
     > Flyway 기반 DB 마이그레이션을 갖춘 Spring Boot API 설계 \
