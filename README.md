@@ -32,68 +32,72 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <details open>
 <summary><strong>CJ OliveNetworks AI CAMPUS — AI CLOUD WAVE (1st Season)</strong> | JUN 2026 - PRESENT</summary>
 
-> An intensive 10-week, 400-hour tech program focused on enterprise AI cloud infrastructure. \
-> `Network & Infrastructure` · `AIOps LLM Operations` · `AI Infrastructure Deployment Project`
+- An intensive 10-week, 400-hour tech program focused on enterprise AI cloud infrastructure.
+- `Network & Infrastructure` · `AIOps LLM Operations` · `AI Infrastructure Deployment Project`
 
 </details>
 
 <details>
 <summary><strong>Illinois Institute of Technology (IIT) Tech Community</strong> | JAN 2026 - MAY 2026</summary>
 
-> **Association for Computing Machinery (ACM)** (Member) \
-> **Google Student Developers** (Member) \
-> **Machine Learning Club** (Member)
+- **Association for Computing Machinery (ACM)** (Member) : Regular tech seminars and Scarlet Hawks hackathon
+- **Google Student Developers** (Member) : Google AI workshop
+- **Machine Learning Club** (Member) : LLM workshop and LeetCode problem-solving sessions
+
 </details>
 
 <details>
 <summary><strong>UMC (University MakeUs Challenge) — Soongsil Univ. Chapter</strong> | SEP 2024 - FEB 2026</summary>
 
-> **9th Season (Spring Boot Part Leader)** | AUG 2025 - FEB 2026 : Hosted framework study sessions, led backend code reviews, and speaker at chapter tech seminars. \
-> **8th Season (Spring Boot Part Senior)** | MAR 2025 - AUG 2025 : Completed advanced backend workbooks and participated in core server-side development and studies. \
-> **7th Season (Spring Boot Part Challenger)** | SEP 2024 - FEB 2025 : Studied production-ready Spring Boot fundamentals and successfully shipped full-cycle team projects.
+- **9th (Spring Boot Part Leader)**: Hosted framework study sessions, led backend code reviews, and speaker at chapter tech seminars.
+- **8th (Spring Boot Part Senior)**: Completed advanced backend workbooks and participated in core server-side development and studies.
+- **7th (Spring Boot Part Challenger)**: Studied production-ready Spring Boot fundamentals and successfully shipped full-cycle team projects.
+
 </details>
 
 <details>
 <summary><strong>KUSITMS(Korean University Students IT, Management Society) 32nd, Backend Part</strong> | AUG 2025 - DEC 2025</summary>
 
-> Focused on cross-functional team collaboration, database optimization, and cloud distribution pipelines.
+- Industry-academia project with LG Electronics (Backend Part)
+- 3-month team meetup project across planning, design, and development
+- Expert lectures and talks from industry professionals
 
 </details>
 
 <details>
 <summary><strong>CES 2025 (Consumer Electronics Show), Las Vegas, USA</strong> | JAN 2025</summary>
 
-> Attended & Report Authored \
-> `'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit, Networking & Report Writing)`
+- Attended & Report Authored
+- `'Exploring Future Trends in AI and FinTech Innovations' (Exhibition Visit, Networking & Report Writing)`
 
 </details>
 
 <details>
 <summary><strong>OceanSoft Co., Project Manager</strong> | JUN 2024 - SEP 2024</summary>
 
-> Worked at SI Outsourcing Company. \
-> Managed development lifecycles, structured client requirements, and scheduled component deliveries.
+- Worked at SI Outsourcing Company.
+- Managed development lifecycles, structured client requirements, and scheduled component deliveries.
 
 </details>
 
 <details>
 <summary><strong>SSCC (Soongsil Central Computer Club)</strong> | MAR 2024 - PRESENT</summary>
 
-> Participated in technical book clubs, AWS cloud infrastructure studies, and team software hackathons/competitions.
+- Participated in technical book clubs, AWS cloud infrastructure studies, and team software hackathons/competitions.
 
 </details>
 
 <details>
-<summary><strong>Planning Director, IT College Student Council</strong> | JAN 2024 - DEC 2024</summary>
+<summary><strong>Soongsil Univ IT College Student Council, Planning Director</strong> | JAN 2024 - DEC 2024</summary>
 
-> Directed major student body activities, organized chapter tech seminars, and managed large-scale community events.
+- Directed major student body activities, organized chapter tech seminars, and managed large-scale community events.
 
 </details>
 
 <details>
 <summary><strong>SPLUG (Soongsil Power Linux User Group)</strong> | MAR 2021 - DEC 2021</summary>
 
-> Studied C-based Linux core systems and contributed to academic advancement through seminar presentations.
+- Studied C-based Linux core systems and contributed to academic advancement through seminar presentations.
 
 </details>
 
@@ -104,73 +108,102 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <details open>
 <summary><strong>Team Starlight, Backend Developer</strong> | OCT 2025 - Present</summary>
 
-> KUSITMS 32nd Best Prize \
-> `'Starlight: Business Plan Platform to Star Startups'` ([Web Link](https://www.starlight-official.co.kr/)))
+- **Award**: KUSITMS 32nd Best Prize
+- **Overview**: Business plan platform for early-stage startups ([Web Link](https://www.starlight-official.co.kr/))
+
+    > Introduced hexagonal architecture \
+    > Built supervisor-agent and RAG-based report generation with Spring AI \
+    > Designed for reliability using the Circuit Breaker pattern \
+    > Reduced report generation time by 40% via parallel agent execution with Java threads \
+    > Cut API calls by 90% and improved average query speed by 15% through query analysis
 
 </details>
 
 <details open>
 <summary><strong>Team ASSU, Full Stack Developer (Android + Spring Boot)</strong> | MAY 2025 - Present</summary>
 
-> Awarded in Soongsil University IT Project Competition(Target: Service Launch & Operation), NOV 2025 \
-> `'ASSU: All-in-One Partnership Management Platform between University Students and Local Businesses'` ( Android App Release - [Play Store Link](https://play.google.com/store/apps/details?id=com.ssu.assu) )
+- **Award**: Soongsil University IT Project Competition (Service Launch & Operation), NOV 2025
+- **Overview**: All-in-one partnership management platform between university students and local businesses ([Play Store Link](https://play.google.com/store/apps/details?id=com.ssu.assu))
+
+    > Designed layer-based DDD architecture \
+    > Built REST APIs with Spring Boot \
+    > Implemented 4-role RBAC with Spring Security and built a back-office admin environment \
+    > Set up production CI/CD with k3s and ArgoCD
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Team Clokey, Backend Developer</strong> | JAN 2025 - JUN 2026</summary>
 
-> UMC 7th Demoday Project \
-> `'Clokey: Smart Closet Management Service'` (iOS App Release - [App Store Link](https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676))
+- **When**: UMC 7th Demoday Project
+- **Overview**: Smart closet management service ([App Store Link](https://apps.apple.com/kr/app/clokey-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EC%98%B7%EC%9E%A5-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/id6741714676))
+
+    > Built multi-module DDD architecture \
+    > Designed Spring Boot APIs with Flyway for database migrations \
+    > Provisioned AWS infrastructure with Terraform for easier server migration \
+    > Integrated and optimized Elasticsearch and MeiliSearch; tuned search accuracy (reduced zero-result queries by 45% after Nori + synonym tuning)
 
 </details>
 
 <details>
 <summary><strong>LG x KUSITMS Industry-Academia Collaboration</strong> | SEP 2025</summary>
 
-> Best Practice Award \
-> `'LifeZip Improvement Project' Backend Developer (Image Optimization via Serverless Functions)`
+- **Award**: Best Practice Award
+- **Overview**: LifeZip improvement project — serverless image optimization for a lifestyle platform
+
+    > Designed Spring Boot APIs \
+    > Built a serverless image optimization pipeline, reducing resource usage by 90%
 
 </details>
 
 <details>
 <summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University</strong> | AUG 2025</summary>
 
-> Excellence Award \
-> `'iCozy: Online Attachment Doll-based Child Psychological Counseling & Care Service'` \
-> Participated in Soongsil University 2025 Pre-Startup Incubation Program
+- **Award**: Excellence Award; Soongsil University 2025 Pre-Startup Incubation Program
+- **Overview**: Online attachment doll-based child psychological counseling and care service
+
+    > Full-stack development with Next.js, Spring Boot, and FastAPI \
+    > Built real-time communication with STT/TTS (ElevenLabs) \
+    > Implemented emotion analysis from video processing (DeepFace v0.0.83)
 
 </details>
 
 <details>
 <summary><strong>Team HaRu, Backend Developer</strong> | JUL 2025</summary>
 
-> UMC 8th Demoday Project - Special Prize \
-> `'HaRu: All-In-One Operation Management Platform for Small Teams'` ([Web Link](http://haru.it.kr))
+- **Award**: UMC 8th Demoday Project — Special Prize
+- **Overview**: All-in-one operation management platform for small teams ([Web Link](http://haru.it.kr))
+
+    > Developed Spring Boot API server \
+    > Built Google Forms-style response forms with unauthenticated token-based access \
+    > Containerized AI server with Docker and set up CI/CD
 
 </details>
 
 <details>
 <summary><strong>Soongsil University Software Competition</strong> | JUL 2025</summary>
 
-> 1st Place (Gold Prize) \
-> `'Sonmaeum: Handwriting Archiving Web Service' (OCR-based Text Preservation for Personal Letters and Memories)`
+- **Award**: 1st Place (Gold Prize)
+- **Overview**: Handwriting archiving web service with OCR-based text preservation for personal letters and memories
+
+    > Full-stack development with Next.js and Spring Boot \
+    > Implemented async processing between AI and main servers using RabbitMQ
 
 </details>
 
 <details>
 <summary><strong>ICT English Project Presentation Contest</strong> | DEC 2024</summary>
 
-> 2nd Place \
-> `'The Dark Side of Military Artificial Intelligence: Risks and Ethical Concerns' (Presentation)`
+- 2nd Place
+- `'The Dark Side of Military Artificial Intelligence: Risks and Ethical Concerns' (Presentation)`
 
 </details>
 
 <details>
 <summary><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club</strong> | NOV 2021</summary>
 
-> 2nd Place \
-> `'Unity: 2D game programming' (Seminar Presentation and Code Cloning)`
+- 2nd Place
+- `'Unity: 2D game programming' (Seminar Presentation and Code Cloning)`
 
 </details>
 
