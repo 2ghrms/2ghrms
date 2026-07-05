@@ -17,7 +17,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 **Languages & Backend Frameworks**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 **Databases, Brokers & Search Engines**
 
@@ -61,7 +61,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <summary><strong>KUSITMS(Korean University Students IT, Management Society) 32nd, Backend Part</strong> | AUG 2025 - DEC 2025</summary>
 
 - Industry-academia project with LG Electronics (Backend Part)
-- 3-month team meetup project across planning, design, and development
+- Completed a 3-month cross-functional team project across PM, design, and development
 - Expert lectures and talks from industry professionals
 
 </details>
