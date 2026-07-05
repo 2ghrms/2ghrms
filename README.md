@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/English-README-2088FF?style=flat-square&logo=GitHub&logoColor=white)](./README.md) [![한국어](https://img.shields.io/badge/한국어-README-03C75A?style=flat-square&logo=GitHub&logoColor=white)](./README_KR.md)
+
 ### 🙌 About Me
 
 Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about architectural trade-offs, robust server-side technologies, and cloud infrastructure.
@@ -15,7 +17,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 **Languages & Backend Frameworks**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 **Databases, Brokers & Search Engines**
 
@@ -59,7 +61,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <summary><strong>KUSITMS(Korean University Students IT, Management Society) 32nd, Backend Part</strong> | AUG 2025 - DEC 2025</summary>
 
 - Industry-academia project with LG Electronics (Backend Part)
-- 3-month team meetup project across planning, design, and development
+- Completed a 3-month cross-functional team project across PM, design, and development
 - Expert lectures and talks from industry professionals
 
 </details>
@@ -113,6 +115,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
     > Introduced hexagonal architecture \
     > Built supervisor-agent and RAG-based report generation with Spring AI \
+    > Contributed to the Spring AI open-source repository ([Issue #4754](https://github.com/spring-projects/spring-ai/issues/4754)) \
     > Designed for reliability using the Circuit Breaker pattern \
     > Reduced report generation time by 40% via parallel agent execution with Java threads \
     > Cut API calls by 90% and improved average query speed by 15% through query analysis
@@ -209,7 +212,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ---
 
-### 📜 Qualifications
+### 📜 Certifications
 - **TOPCIT(Test of Practical Competency in IT)** — Score 752 • Level 4 (Proficient) • Problem-Solving Track | MAY 2026
 - **AWS Certified Cloud Practitioner Certification** | OCT 2025
 - **SQL Developer Certification** | SEP 2025
