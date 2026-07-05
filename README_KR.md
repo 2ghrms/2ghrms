@@ -2,10 +2,8 @@
 
 ### 🙌 소개
 
-Hi, I'm Hogeun Lee.
-
-> 기술에 왜를 고민하며 안정적인 서버 기술과 클라우드 인프라에 관심이 많은 컴퓨터공학과 4학년 학생입니다.
-
+> 안녕하세요, 숭실대학교 컴퓨터학부 4학년 이호근입니다. \
+> 기술 선택의 이유를 중요하게 생각하며, Spring Boot 기반 서버 설계와 클라우드 인프라를 다룹니다.
 ---
 
 ### 🎓 학력
@@ -31,7 +29,7 @@ Hi, I'm Hogeun Lee.
 
 ---
 
-### 💼 활동 경력
+### 💼 활동 경험 및 경력
 
 <details open>
 <summary><strong>CJ올리브네트웍스 AI CAMPUS — AI CLOUD WAVE (1기)</strong> | 2026.06 - 진행 중</summary>
@@ -214,7 +212,7 @@ Hi, I'm Hogeun Lee.
 
 ---
 
-### 📜 Certifications
+### 📜 자격증
 - **TOPCIT(소프트웨어 역량 검정 시험)** — 752점 • 수준 4 • 숙련자(문제해결형) | 2026.05
 - **AWS Certified Cloud Practitioner** | 2025.10
 - **SQLD (SQL 개발자)** | 2025.09
@@ -222,7 +220,7 @@ Hi, I'm Hogeun Lee.
 
 ---
 
-### 🏅 Stats
+### 🏅 활동 & 배지
 <div style="text-align: left; margin-top: 15px; margin-left: 15px;"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> 
