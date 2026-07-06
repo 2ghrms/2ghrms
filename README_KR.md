@@ -128,7 +128,7 @@
 - **수상**: 숭실대 IT 프로젝트 공모전 수상, 2025.11
 - **개요**: 대학생과 지역 상권을 연결하는 올인원 제휴 관리 플랫폼 ([Play Store 링크](https://play.google.com/store/apps/details?id=com.ssu.assu))
 
-    > 레이어 기반 DDD 아키텍처 설계 \
+    > 서비스 기획부터 안드로이드 및 백엔드 개발까지, 프로젝트 전 과정 주도 \
     > Spring Boot 기반 REST API 설계 \
     > Spring Security 기반 4가지 Role RBAC 설계 및 백오피스 환경 구축 \
     > k3s + ArgoCD 기반 운영환경 CI/CD 구축
