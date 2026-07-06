@@ -34,7 +34,7 @@
 <details open>
 <summary><strong>CJ올리브네트웍스 AI CAMPUS — AI CLOUD WAVE (1기)</strong> | 2026.06 - 진행 중</summary>
 
-- CJ올리브네트웍스의 엔터프라이즈 AI 클라우드 인프라에 집중하는 10주 400시간의 부트캠프 참여
+- CJ올리브네트웍스의 엔터프라이즈 AI 클라우드 인프라 특화 400시간 과정
 - `네트워크 & 인프라` · `AIOps LLM 운영` · `AI 인프라 배포 프로젝트`
 
 </details>
