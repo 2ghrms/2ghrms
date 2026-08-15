@@ -83,7 +83,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 </details>
 
 <details>
-<summary><strong>SSCC (Soongsil Central Computer Club)</strong> | MAR 2024 - PRESENT</summary>
+<summary><strong>SSCC (Soongsil Central Computer Club)</strong> | MAR 2024 - AUG 2026</summary>
 
 - Participated in technical book clubs, AWS cloud infrastructure studies, and team software hackathons/competitions.
 
@@ -213,16 +213,18 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 ---
 
 ### 📜 Certifications
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** | AUG 2026
 - **TOPCIT(Test of Practical Competency in IT)** — Score 752 • Level 4 (Proficient) • Problem-Solving Track | MAY 2026
-- **AWS Certified Cloud Practitioner Certification** | OCT 2025
-- **SQL Developer Certification** | SEP 2025
-- **Information Processing Craftsman Certification, Korea** | JUN 2023
+- **AWS Certified Cloud Practitioner (CLF-C02)** | OCT 2025
+- **SQL Developer, Korea Data Agency** | SEP 2025
+- **Craftsman Programming, Human Resources Development Service of Korea** | JUN 2023
 
 ---
 
-### 🏅 Stats
+### 🏅 Stats & Badges
 <div style="text-align: left; margin-top: 15px; margin-left: 15px;"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> 
-    <img src="https://github.com/user-attachments/assets/90829139-5105-4510-903e-e34168241c19" style="display: inline-block;" height="130"/>
+    <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
+    <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>

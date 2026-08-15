@@ -3,7 +3,7 @@
 ### 🙌 소개
 
 > 안녕하세요, 숭실대학교 컴퓨터학부 4학년 이호근입니다. \
-> 기술 선택의 이유를 중요하게 생각하며, Spring Boot 기반 서버 설계와 클라우드 인프라를 다룹니다.
+> 기술 선택의 이유와 트레이드 오프를 중요하게 생각하며, Spring Boot 기반 서버 설계와 클라우드 인프라를 다룹니다.
 ---
 
 ### 🎓 학력
@@ -77,13 +77,13 @@
 <details>
 <summary><strong>(주)오션소프트, 프로젝트 매니저</strong> | 2024.06 - 2024.09</summary>
 
-- SI 아웃소싱 기업 근무
+- SI 아웃소싱 스타트업 근무
 - 디자이너-개발자-클라이언트 간의 개발 라이프사이클 관리, 고객 요구사항 구조화, 소프트웨어 납품 일정 관리
 
 </details>
 
 <details>
-<summary><strong>SSCC (숭실대 중앙 컴퓨터 동아리)</strong> | 2024.03 - 활동 중</summary>
+<summary><strong>SSCC (숭실대 중앙 컴퓨터 동아리)</strong> | 2024.03 - 2026.08</summary>
 
 - 기술 서적 스터디, AWS 클라우드 인프라 스터디, 팀 소프트웨어 해커톤/공모전 참여
 
@@ -213,10 +213,11 @@
 ---
 
 ### 📜 자격증
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** | 2026.08
 - **TOPCIT(소프트웨어 역량 검정 시험)** — 752점 • 수준 4 • 숙련자(문제해결형) | 2026.05
-- **AWS Certified Cloud Practitioner** | 2025.10
-- **SQLD (SQL 개발자)** | 2025.09
-- **정보처리기능사** | 2023.06
+- **AWS Certified Cloud Practitioner (CLF-C02)** | 2025.10
+- **SQLD, 한국데이터산업진흥원** | 2025.09
+- **프로그래밍 기능사, 한국산업인력공단** | 2023.06
 
 ---
 
@@ -224,5 +225,6 @@
 <div style="text-align: left; margin-top: 15px; margin-left: 15px;"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ghrms&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="display: inline-block; margin-right: 10px;" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> 
-    <img src="https://github.com/user-attachments/assets/90829139-5105-4510-903e-e34168241c19" style="display: inline-block;" height="130"/>
+    <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
+    <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>
