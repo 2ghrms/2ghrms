@@ -32,10 +32,19 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 ### 💼 Experiences
 
 <details open>
-<summary><strong>CJ OliveNetworks AI CAMPUS — AI CLOUD WAVE (1st Season)</strong> | JUN 2026 - PRESENT</summary>
+<summary><strong>Hama Lab Co., Ltd., Backend Developer (Intern)</strong> | SEP 2026 - Present</summary>
 
-- An intensive 10-week, 400-hour tech program focused on enterprise AI cloud infrastructure.
-- `Network & Infrastructure` · `AIOps LLM Operations` · `AI Infrastructure Deployment Project`
+- Performing an internship as a developer on the backend team
+
+</details>
+
+<details open>
+<summary><strong>CJ OliveNetworks AI CAMPUS — AI CLOUD WAVE (1st Season)</strong> | JUN 2026 - AUG 2026</summary>
+
+- Completed an intensive 10-week, 400-hour tech program focused on enterprise AI cloud infrastructure (August 2026)
+- **Learning areas**: Networking · Linux server operations · AWS infrastructure · Container and Kubernetes operations · Observability · AIOps-based anomaly detection · LLM utilization for operational automation · RAG and Agent utilization for operational automation
+- Attended practical lectures by CJ OliveNetworks practitioners and career placement sessions
+- **Project**: Completed a 3-week project on AI-based cloud operations analysis and decision support
 
 </details>
 
