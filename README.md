@@ -39,6 +39,13 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 </details>
 
 <details open>
+<summary><strong>Soongsil University IT Support Committee</strong> | AUG 2026 - Present</summary>
+
+- Contributing as a backend developer for the student council homepage
+
+</details>
+
+<details open>
 <summary><strong>CJ OliveNetworks AI CAMPUS — AI CLOUD WAVE (1st Season)</strong> | JUN 2026 - AUG 2026</summary>
 
 - Completed an intensive 10-week, 400-hour tech program focused on enterprise AI cloud infrastructure (August 2026)

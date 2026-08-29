@@ -38,6 +38,15 @@ AWS Oracle Cloud Naver Cloud Docker K3s ArgoCD GitHub Actions Terraform
 
 
 
+<details open>
+<summary><strong>숭실대학교 IT 지원위원회</strong> | 2026.08 - 진행 중</summary>
+
+- 총학생회 홈페이지 백엔드 개발자로 기여 중
+
+</details>
+
+
+
 **CJ올리브네트웍스 AI CAMPUS — AI CLOUD WAVE (1기)** | 2026.06 - 2026.08
 
 - CJ올리브네트웍스의 엔터프라이즈 AI 클라우드 인프라에 집중하는 10주 400시간의 부트캠프 수료
