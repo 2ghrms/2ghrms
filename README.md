@@ -123,17 +123,45 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ### 📚 Achievements & Projects
 
+<details open>                                                                   
+  <summary><strong>CJ AI Cloudwave Cohort 1, PM & Full-Stack Developer</strong> |  
+  AUG 2026</summary>                                                               
+                                                                                   
+  - **Award**: CJ Olive Networks AI Cloud Wave Cohort 1 — Excellence Award, AUG    
+  2026                                                                             
+  - **Overview**: Designed and built an AIOps pipeline — from observability and    
+  ML-based anomaly detection to AI agent diagnosis — on a simulated MSA replica of 
+  the Olive Young Global flash-sale service                                        
+                                                                                   
+      > Backend/Frontend · Observability Agent · Load Test Design · ML-based       
+  Incident Detection
+      >
+      > Directed architecture across 8 repositories, tracked through 63 logged design decisions for fully parallel team development
+      >
+      > Cut recurring alert noise 94% (32 → 2) by rewriting mis-firing monitoring rules
+      >
+      > Designed a 36-hour load test peaking at 4,250 rps with a region-derived dual-peak traffic curve
+      >
+      > Raised ML anomaly-detection recall 3x and cut false positives 7x through algorithm tuning
+      >
+      > Cut repeat-incident diagnosis latency up to 169x with a signature-based verdict cache
+
 <details open>
 <summary><strong>Team Starlight, Backend Developer</strong> | OCT 2025 - Present</summary>
 
 - **Award**: KUSITMS 32nd Best Prize
 - **Overview**: Business plan platform for early-stage startups ([Web Link](https://www.starlight-official.co.kr/))
 
-    > Introduced hexagonal architecture \
-    > Built supervisor-agent and RAG-based report generation with Spring AI \
-    > Contributed to the Spring AI open-source repository ([Issue #4754](https://github.com/spring-projects/spring-ai/issues/4754)) \
-    > Designed for reliability using the Circuit Breaker pattern \
-    > Reduced report generation time by 40% via parallel agent execution with Java threads \
+    > Introduced hexagonal architecture
+    > 
+    > Built supervisor-agent and RAG-based report generation with Spring AI
+    > 
+    > Contributed to the Spring AI open-source repository ([Issue #4754](https://github.com/spring-projects/spring-ai/issues/4754))
+    > 
+    > Designed for reliability using the Circuit Breaker pattern
+    > 
+    > Reduced report generation time by 40% via parallel agent execution with Java threads
+    > 
     > Cut API calls by 90% and improved average query speed by 15% through query analysis
 
 </details>
@@ -144,9 +172,12 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Award**: Soongsil University IT Project Competition (Service Launch & Operation), NOV 2025
 - **Overview**: All-in-one partnership management platform between university students and local businesses ([Play Store Link](https://play.google.com/store/apps/details?id=com.ssu.assu))
 
-    > Spearheaded the entire project lifecycle, spanning from service ideation to Android and backend development \
-    > Built REST APIs with Spring Boot \
-    > Implemented 4-role RBAC with Spring Security and built a back-office admin environment \
+    > Spearheaded the entire project lifecycle, spanning from service ideation to Android and backend development
+    > 
+    > Built REST APIs with Spring Boot
+    > 
+    > Implemented 4-role RBAC with Spring Security and built a back-office admin environment
+    > 
     > Set up production CI/CD with k3s and ArgoCD
 
 </details>
@@ -157,9 +188,12 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **When**: UMC 7th Demoday Project
 - **Overview**: Smart closet management service ([App Store Link](https://apps.apple.com/kr/app/codive/id6756431150))
 
-    > Built multi-module DDD architecture \
-    > Designed Spring Boot APIs with Flyway for database migrations \
-    > Provisioned AWS infrastructure with Terraform for easier server migration \
+    > Built multi-module DDD architecture
+    > 
+    > Designed Spring Boot APIs with Flyway for database migrations
+    > 
+    > Provisioned AWS infrastructure with Terraform for easier server migration
+    > 
     > Integrated and optimized Elasticsearch and MeiliSearch; tuned search accuracy (reduced zero-result queries by 45% after Nori + synonym tuning)
 
 </details>
@@ -170,7 +204,8 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Award**: Best Practice Award
 - **Overview**: LifeZip improvement project — serverless image optimization for a lifestyle platform
 
-    > Designed Spring Boot APIs \
+    > Designed Spring Boot APIs
+    > 
     > Built a serverless image optimization pipeline, reducing resource usage by 90%
 
 </details>
@@ -181,8 +216,10 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Award**: Excellence Award; Soongsil University 2025 Pre-Startup Incubation Program
 - **Overview**: Online attachment doll-based child psychological counseling and care service
 
-    > Full-stack development with Next.js, Spring Boot, and FastAPI \
-    > Built real-time communication with STT/TTS (ElevenLabs) \
+    > Full-stack development with Next.js, Spring Boot, and FastAPI
+    > 
+    > Built real-time communication with STT/TTS (ElevenLabs)
+    > 
     > Implemented emotion analysis from video processing (DeepFace v0.0.83)
 
 </details>
@@ -193,8 +230,10 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Award**: UMC 8th Demoday Project — Special Prize
 - **Overview**: All-in-one operation management platform for small teams ([Web Link](http://haru.it.kr))
 
-    > Developed Spring Boot API server \
-    > Built Google Forms-style response forms with unauthenticated token-based access \
+    > Developed Spring Boot API server
+    > 
+    > Built Google Forms-style response forms with unauthenticated token-based access
+    > 
     > Containerized AI server with Docker and set up CI/CD
 
 </details>
@@ -205,7 +244,8 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Award**: 1st Place (Gold Prize)
 - **Overview**: Handwriting archiving web service with OCR-based text preservation for personal letters and memories
 
-    > Full-stack development with Next.js and Spring Boot \
+    > Full-stack development with Next.js and Spring Boot
+    > 
     > Implemented async processing between AI and main servers using RabbitMQ
 
 </details>
