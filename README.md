@@ -269,11 +269,12 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 ---
 
 ### 📜 Certifications
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** | AUG 2026
+- **Engineer Information Processing**, Human Resources Development Service of Korea | SEP 2026
+- **AWS Certified Solutions Architect – Associate** (SAA-C03) | AUG 2026
 - **TOPCIT(Test of Practical Competency in IT)** — Score 752 • Level 4 (Proficient) • Problem-Solving Track | MAY 2026
-- **AWS Certified Cloud Practitioner (CLF-C02)** | OCT 2025
-- **SQL Developer, Korea Data Agency** | SEP 2025
-- **Craftsman Programming, Human Resources Development Service of Korea** | JUN 2023
+- **AWS Certified Cloud Practitioner** (CLF-C02) | OCT 2025
+- **SQL Developer**, Korea Data Agency | SEP 2025
+- **Craftsman Programming**, Human Resources Development Service of Korea | JUN 2023
 
 ---
 
