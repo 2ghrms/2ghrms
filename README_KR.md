@@ -269,11 +269,12 @@
 ---
 
 ### 📜 자격증
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** | 2026.08
+- **정보처리기사**, 한국산업인력공단 | 2026.09
+- **AWS Certified Solutions Architect – Associate** (SAA-C03) | 2026.08
 - **TOPCIT(소프트웨어 역량 검정 시험)** — 752점 • 수준 4 • 숙련자(문제해결형) | 2026.05
-- **AWS Certified Cloud Practitioner (CLF-C02)** | 2025.10
-- **SQLD, 한국데이터산업진흥원** | 2025.09
-- **프로그래밍 기능사, 한국산업인력공단** | 2023.06
+- **AWS Certified Cloud Practitioner** (CLF-C02) | 2025.10
+- **SQLD**, 한국데이터산업진흥원 | 2025.09
+- **프로그래밍 기능사**, 한국산업인력공단 | 2023.06
 
 ---
 
