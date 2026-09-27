@@ -35,13 +35,23 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <summary><strong>Hama Lab Co., Ltd., Backend Developer</strong> | SEP 2026 - Present</summary>
 
 - Performing an internship as a developer on the backend team
+- **Key work**: Designed and implemented backend APIs for two global services (education / dating)
+  - Ensured data consistency under concurrent requests with CAS-based idempotency and transaction separation (`REQUIRES_NEW`)
+  - Designed a Master-Slave DB routing architecture across the Singapore and Seoul regions, guaranteeing read-after-write consistency based on measured latency data
+  - Built a Prometheus·Loki-based observability stack to visualize API and DB metrics, driving data-backed performance decisions
+  - Built data review and generation pipelines for the services, reducing review and generation time
 
 </details>
 
 <details open>
 <summary><strong>Soongsil University IT Support Committee, Backend Developer</strong> | AUG 2026 - Present</summary>
 
-- Contributing as a backend developer for the student council homepage
+- Maintaining backend features of the student council homepage
+- Owned the student-side features of **PASSU V3**, a digital receipt service, developing and deploying new features
+- **Key work**: Revamped u-Saint OCR verification and migrated the legacy monolith to a Go-based serverless architecture
+  - **OCR failure rate 32.8% → 0%**: Benchmarked 4 recognition engines under identical conditions and switched to PP-OCRv5 with a structure-based parser
+  - **5xx rate 6.67% → 0.29% and 73% higher throughput at 1,000 concurrent users**: Identified the bottleneck as DB connection count rather than DB performance, and resolved it with reserved concurrency
+  - **~97% annual cost reduction vs. always-on servers (estimated)**: Serverless design with a self-hosted OCR model — reading 15,000 users costs about $1.6
 
 </details>
 
@@ -272,6 +282,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Engineer Information Processing**, Human Resources Development Service of Korea | SEP 2026
 - **AWS Certified Solutions Architect – Associate** (SAA-C03) | AUG 2026
 - **TOPCIT(Test of Practical Competency in IT)** — Score 752 • Level 4 (Proficient) • Problem-Solving Track | MAY 2026
+- **AWS Certified AI Practitioner** (AIF-C01) | SEP 2026
 - **AWS Certified Cloud Practitioner** (CLF-C02) | OCT 2025
 - **SQL Developer**, Korea Data Agency | SEP 2025
 - **Craftsman Programming**, Human Resources Development Service of Korea | JUN 2023
@@ -283,5 +294,6 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
     <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=2ghrms&show_icons=true&hide_border=true&theme=nord" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> 
     <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
+    <a href="https://www.credly.com/badges/c15144f8-cf55-472d-abd5-f5d253456ec1/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="display: inline-block; margin-right: 10px;" height="130"/></a>
     <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>

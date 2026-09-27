@@ -35,13 +35,23 @@
 <summary><strong>(주)하마랩, 백엔드 개발자</strong> | 2026.09 - 진행 중</summary>
 
 - 백엔드 팀에서 개발자로 인턴십 수행
+- **주요 업무**: 글로벌 서비스 2개(교육/데이팅)의 백엔드 API 설계 및 구현
+  - CAS 기반 멱등 처리와 트랜잭션 분리(`REQUIRES_NEW`)로 동시 요청 상황에서 데이터 정합성 확보
+  - 싱가포르-서울 리전 간 Master-Slave DB 라우팅 구조를 설계하고, 실측 지연 데이터를 기반으로 read-after-write 정합성 확보
+  - Prometheus·Loki 기반 관측 체계를 구축해 API·DB 지표를 가시화하고, 이를 근거로 성능 개선 의사결정 진행
+  - 서비스 데이터 검수 및 생성 파이프라인을 구축해 검수·생성 시간 단축
 
 </details>
 
 <details open>
 <summary><strong>숭실대학교 IT 지원위원회, 백엔드 개발자</strong> | 2026.08 - 진행 중</summary>
 
-- 총학생회 홈페이지 백엔드 개발자로 기여
+- 총학생회 홈페이지 백엔드 기능 유지보수
+- 디지털 수령증 서비스 **PASSU V3**의 학생 기능을 담당하여 신기능 개발 및 배포
+- **주요 업무**: 유세인트 OCR 인증 개편 및 기존 모놀리식 애플리케이션을 Go 기반 서버리스 구조로 전환
+  - **OCR 판독 실패율 32.8% → 0%**: 인식 엔진 4종을 같은 조건으로 비교해 PP-OCRv5와 구조 기반 파서로 교체
+  - **동시 접속 1,000명 부하에서 5xx 6.67% → 0.29%, 처리량 73% 향상**: 병목이 DB 성능이 아닌 DB 연결 수임을 찾아내 예약 동시성(Reserved Concurrency)으로 해결
+  - **상시 서버 대비 연간 비용 약 97% 절감 (추정)**: 서버리스 구조로 설계하고 OCR 모델은 자체 호스팅, 15,000명 판독 비용 약 $1.6
 
 </details>
 
@@ -272,6 +282,7 @@
 - **정보처리기사**, 한국산업인력공단 | 2026.09
 - **AWS Certified Solutions Architect – Associate** (SAA-C03) | 2026.08
 - **TOPCIT(소프트웨어 역량 검정 시험)** — 752점 • 수준 4 • 숙련자(문제해결형) | 2026.05
+- **AWS Certified AI Practitioner** (AIF-C01) | 2026.09
 - **AWS Certified Cloud Practitioner** (CLF-C02) | 2025.10
 - **SQLD**, 한국데이터산업진흥원 | 2025.09
 - **프로그래밍 기능사**, 한국산업인력공단 | 2023.06
@@ -283,5 +294,6 @@
     <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=2ghrms&show_icons=true&hide_border=true&theme=nord" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> 
     <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
+    <a href="https://www.credly.com/badges/c15144f8-cf55-472d-abd5-f5d253456ec1/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="display: inline-block; margin-right: 10px;" height="130"/></a>
     <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>
