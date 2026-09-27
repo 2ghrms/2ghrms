@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>이호근 포트폴리오</title>
+<!-- CJ ONLYONE NEW는 CJ 사내 전용 서체: 설치된 PC에서만 적용되고, 없으면 Pretendard로 대체 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+  /* 레이아웃: 1280×720 프레임(=Figma 프레임 1장). CJ올리브네트웍스 사이트 톤 — 딥 네이비 표지, 흰 바탕 본문, CJ 3색(레드·오렌지·옐로) 포인트 */
+  :root {
+    --navy: #030C39;  --navy-2: #0A1A5C;
+    --ink: #000000;   --ink-2: #333333; --sub: #666666;
+    --line: #E6E6E6;  --bg: #FFFFFF;    --surface: #F7F7F7;
+    --red: #D6131B;   --orange: #F5821F; --yellow: #FDB913;
+    --blue: #006ECD;  --blue-2: #2B91FE;
+    --font: "CJONLYONENEW", "CJ ONLYONE NEW", Pretendard, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #D9D9D9; font-family: var(--font); color: var(--ink); word-break: keep-all; }
+  .page { width: 1280px; height: 720px; margin: 40px auto; background: var(--bg); position: relative; overflow: hidden; padding: 60px 72px; }
+  .dark { background: radial-gradient(ellipse at 85% 10%, #1B3FA855, transparent 55%), linear-gradient(160deg, var(--navy-2), var(--navy) 60%); color: #fff; }
+  .kicker { display: flex; align-items: center; gap: 10px; font-size: 14px; font-weight: 600; letter-spacing: .12em; color: var(--blue); text-transform: uppercase; }
+  .kicker::before { content: ""; width: 34px; height: 8px; flex: none;
+    background: radial-gradient(circle at 4px 4px, var(--red) 4px, transparent 4.5px), radial-gradient(circle at 17px 4px, var(--orange) 4px, transparent 4.5px), radial-gradient(circle at 30px 4px, var(--yellow) 4px, transparent 4.5px); }
+  .dark .kicker { color: var(--blue-2); }
+  h1 { font-size: 64px; font-weight: 600; line-height: 1.2; letter-spacing: -.03em; text-wrap: balance; }
+  h2 { font-size: 36px; font-weight: 600; letter-spacing: -.03em; margin: 10px 0 24px; text-wrap: balance; }
+  h3 { font-size: 19px; font-weight: 600; margin-bottom: 6px; color: var(--ink); }
+  p { font-size: 15px; line-height: 1.6; color: var(--sub); }
+  .dark p { color: #AEB6D0; }
+  b { color: var(--ink); font-weight: 600; }
+  .pageno { position: absolute; right: 72px; bottom: 28px; font-size: 13px; color: var(--sub); font-variant-numeric: tabular-nums; }
+  .dark .pageno { color: #5E6A93; }
+  .grid { display: grid; gap: 20px; }
+  .card { background: var(--surface); border-radius: 12px; padding: 22px 24px; }
+  .tag { display: inline-block; font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; border: 1px solid currentColor; color: var(--blue); white-space: nowrap; }
+  .tag.o { color: var(--orange); }
+  .tag.r { color: var(--red); }
+  .metric { font-size: 30px; font-weight: 600; color: var(--red); letter-spacing: -.02em; line-height: 1.15; font-variant-numeric: tabular-nums; }
+  .metric small { font-size: 15px; font-weight: 600; }
+  .mlabel { font-size: 13px; color: var(--sub); margin-top: 4px; line-height: 1.45; }
+  .big { font-size: 52px; font-weight: 600; color: var(--red); line-height: 1; font-variant-numeric: tabular-nums; }
+  .rows { border-top: 2px solid var(--ink); }
+  .row { display: grid; grid-template-columns: 150px 1fr 1.5fr 76px; gap: 20px; align-items: center; padding: 13px 4px; border-bottom: 1px solid var(--line); }
+  .row .d { font-size: 14px; font-weight: 600; color: var(--sub); font-variant-numeric: tabular-nums; }
+  .row .n { font-size: 16px; font-weight: 600; }
+  .row .n span { display: block; font-size: 13px; font-weight: 400; color: var(--sub); margin-top: 2px; }
+  .row .x { font-size: 14px; color: var(--ink-2); line-height: 1.5; }
+  .row .t { text-align: right; }
+  .plain { margin-top: 12px; padding: 12px 14px; background: var(--bg); border-radius: 8px; font-size: 14px; color: var(--ink-2); line-height: 1.55; }
+  .plain::before { content: "쉽게 말하면 · "; font-weight: 600; color: var(--blue); }
+  .list { display: grid; grid-template-columns: 90px 1fr; row-gap: 11px; column-gap: 16px; }
+  .list .d { font-size: 14px; font-weight: 600; color: var(--sub); font-variant-numeric: tabular-nums; }
+  .list .n { font-size: 15px; font-weight: 600; }
+  .list .n span { font-weight: 400; color: var(--sub); }
+  .pill { display: inline-flex; gap: 10px; align-items: center; padding: 12px 22px; border-radius: 999px; font-size: 15px; }
+  .pill.w { background: #fff; color: var(--ink); }
+  .pill.o { border: 1px solid #ffffff99; color: #fff; }
+  .pill span { color: var(--sub); font-size: 13px; }
+  .pill.o span { color: #AEB6D0; }
+</style>
+</head>
+<body>
+
+<!-- 01 COVER -->
+<section class="page dark">
+  <p class="kicker">Portfolio · Cloud Service Engineer</p>
+  <h1 style="margin-top:150px">측정하고, 비교하고,<br>근거로 운영하는 엔지니어</h1>
+  <p style="font-size:20px;margin-top:24px;color:#fff">이호근 <span style="color:#AEB6D0">· 숭실대학교 컴퓨터학부 4학년</span></p>
+  <div style="position:absolute;left:72px;bottom:64px;display:flex;gap:12px">
+    <div class="pill w"><span>Email</span>aa020228@gmail.com</div>
+    <div class="pill o"><span>GitHub</span>github.com/2ghrms</div>
+  </div>
+</section>
+
+<!-- 02 AT A GLANCE -->
+<section class="page">
+  <p class="kicker">At a glance</p>
+  <h2>한눈에 보는 이호근</h2>
+  <p style="max-width:960px;font-size:17px;margin-bottom:32px">서비스를 만드는 것에서 그치지 않고, <b>잘 돌아가는지 숫자로 확인하고 더 싸고 안정적으로 바꾸는 일</b>을 좋아합니다. 학교·기업·해외 커뮤니티를 오가며 협업했고, 배운 것을 후배와 고등학생에게 나누는 멘토링도 꾸준히 해왔습니다.</p>
+  <div class="grid" style="grid-template-columns:repeat(4,1fr)">
+    <div class="card"><div class="big">14</div><p style="margin-top:10px"><b>경력 · 교육 · 대외활동</b><br>인턴 · 부트캠프 · 해외 방문학생 · 학회</p></div>
+    <div class="card"><div class="big">9</div><p style="margin-top:10px"><b>수상</b><br>CJ올리브네트웍스 AI CLOUD WAVE 최우수상 포함</p></div>
+    <div class="card"><div class="big">7</div><p style="margin-top:10px"><b>자격증</b><br>AWS 3종 · 정보처리기사 · SQLD 등</p></div>
+    <div class="card"><div class="big">4</div><p style="margin-top:10px"><b>가르치고 이끈 경험</b><br>고교·청소년 멘토링 · 파트장 · 학생회</p></div>
+  </div>
+  <div class="grid" style="grid-template-columns:repeat(3,1fr);margin-top:20px">
+    <div class="card"><h3>측정 먼저</h3><p>감이 아닌 실제 수치를 보고 선택합니다</p></div>
+    <div class="card"><h3>원인까지</h3><p>겉으로 보이는 증상 말고 진짜 원인을 고칩니다</p></div>
+    <div class="card"><h3>비용까지</h3><p>성능과 운영 비용을 함께 설계합니다</p></div>
+  </div>
+  <span class="pageno">02</span>
+</section>
+
+<!-- 03 경력 · 교육 -->
+<section class="page">
+  <p class="kicker">Career &amp; Education</p>
+  <h2>경력 · 교육</h2>
+  <div class="rows">
+    <div class="row"><div class="d">2026.09 – 현재</div><div class="n">(주)하마랩<span>백엔드 개발 인턴</span></div><div class="x">글로벌 서비스 2개(교육·데이팅)의 서버 개발과 서비스 상태 모니터링 구축</div><div class="t"><span class="tag">경력</span></div></div>
+    <div class="row"><div class="d">2026.08 – 현재</div><div class="n">숭실대 IT 지원위원회<span>백엔드 개발자</span></div><div class="x">총학생회 홈페이지 유지보수, 디지털 수령증 서비스 PASSU V3 개발·배포</div><div class="t"><span class="tag">경력</span></div></div>
+    <div class="row"><div class="d">2026.06 – 2026.08</div><div class="n">CJ올리브네트웍스 AI CAMPUS<span>AI CLOUD WAVE 1기 수료</span></div><div class="x">10주 400시간 클라우드 인프라 과정 · 실무진 특강 · 최종 프로젝트 최우수상</div><div class="t"><span class="tag o">교육</span></div></div>
+    <div class="row"><div class="d">2026.01 – 2026.05</div><div class="n">Illinois Institute of Technology<span>컴퓨터과학 방문학생</span></div><div class="x">미국 시카고에서 한 학기 수학, ACM·Google Student Developers·ML Club 활동</div><div class="t"><span class="tag o">교육</span></div></div>
+    <div class="row"><div class="d">2024.06 – 2024.09</div><div class="n">(주)오션소프트<span>프로젝트 매니저</span></div><div class="x">디자이너·개발자·고객 사이에서 요구사항 정리와 납품 일정 관리</div><div class="t"><span class="tag">경력</span></div></div>
+    <div class="row"><div class="d">2021.03 – 현재</div><div class="n">숭실대학교<span>컴퓨터학부 4학년</span></div><div class="x">컴퓨터학부 전공</div><div class="t"><span class="tag o">교육</span></div></div>
+  </div>
+  <span class="pageno">03</span>
+</section>
+
+<!-- 04 대외활동 · 멘토링 -->
+<section class="page">
+  <p class="kicker">Activities &amp; Mentoring</p>
+  <h2>대외활동 · 멘토링</h2>
+  <div class="rows">
+    <div class="row" style="padding:10px 0"><div class="d">2025.08 – 2025.12</div><div class="n">큐시즘 32기<span>한국대학생IT경영학회</span></div><div class="x">기획·디자인·개발 협업, LG전자 산학 프로젝트</div><div class="t"><span class="tag">학회</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2025.07 – 2025.10</div><div class="n">동아사이언스 SW 동행 멘토링<span>멘토</span></div><div class="x">소프트웨어 교육 멘토링 멘토로 참여</div><div class="t"><span class="tag r">멘토링</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2025.04 – 2025.12</div><div class="n">구암고등학교 개발 동아리<span>멘토</span></div><div class="x">고등학교 개발 동아리 학생들의 개발 학습 멘토링</div><div class="t"><span class="tag r">멘토링</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2025.01</div><div class="n">CES 2025<span>미국 라스베이거스</span></div><div class="x">세계 최대 IT 전시 참관, AI·핀테크 트렌드 보고서 작성</div><div class="t"><span class="tag">해외</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2024.09 – 2026.02</div><div class="n">UMC 숭실대 지부<span>7기 챌린저 → 8기 시니어 → 9기 파트장</span></div><div class="x">3기수 연속 활동, 9기에는 서버 파트를 이끌며 스터디·코드 리뷰·세미나 진행</div><div class="t"><span class="tag r">리더</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2024.03 – 2026.08</div><div class="n">SSCC<span>숭실대 중앙 컴퓨터 동아리</span></div><div class="x">AWS 클라우드 스터디, 기술 서적 스터디, 해커톤·공모전 참여</div><div class="t"><span class="tag">동아리</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2024.01 – 2024.12</div><div class="n">숭실대 IT대학 학생회<span>기획국장</span></div><div class="x">학생회 운영, 기술 세미나와 대규모 행사 기획</div><div class="t"><span class="tag r">리더</span></div></div>
+    <div class="row" style="padding:10px 0"><div class="d">2021.03 – 2021.12</div><div class="n">SPLUG<span>숭실대 리눅스 유저 그룹</span></div><div class="x">리눅스 학습과 세미나 발표</div><div class="t"><span class="tag">동아리</span></div></div>
+  </div>
+  <span class="pageno">04</span>
+</section>
+
+<!-- 05 대표 경험 (쉽게) -->
+<section class="page">
+  <p class="kicker">Key Stories</p>
+  <h2>대표 경험 3가지</h2>
+  <div class="grid" style="grid-template-columns:repeat(3,1fr)">
+    <div class="card">
+      <span class="tag o">최우수상 · 2026.08</span>
+      <h3 style="margin-top:12px">CJ AI CLOUD WAVE 최종 프로젝트</h3>
+      <p>올리브영 글로벌 세일처럼 접속이 몰리는 상황을 재현하고, 문제가 생기면 AI가 원인을 먼저 찾아 알려주는 운영 시스템을 만들었습니다. (PM)</p>
+      <div class="grid" style="grid-template-columns:1fr 1fr;gap:12px;margin-top:16px">
+        <div><div class="metric">32→2<small>건</small></div><div class="mlabel">쓸데없이 울리던 알림</div></div>
+        <div><div class="metric">169<small>배</small></div><div class="mlabel">같은 문제 재진단 속도</div></div>
+      </div>
+      <div class="plain">밤새 울리던 가짜 알람을 걸러내고, 진짜 문제만 빠르게 짚어주는 시스템</div>
+    </div>
+    <div class="card">
+      <span class="tag">숭실대 IT 지원위원회 · 2026</span>
+      <h3 style="margin-top:12px">학생 인증 서비스 개편</h3>
+      <p>학교 포털 화면을 읽어 학생을 인증하는 기능이 자주 실패했습니다. 여러 인식 방식을 같은 조건에서 비교해 가장 정확한 방식으로 바꿨습니다.</p>
+      <div class="grid" style="grid-template-columns:1fr 1fr;gap:12px;margin-top:16px">
+        <div><div class="metric">32.8→0<small>%</small></div><div class="mlabel">인증 실패율</div></div>
+        <div><div class="metric">~97<small>%↓</small></div><div class="mlabel">연간 서버 비용 (추정)</div></div>
+      </div>
+      <div class="plain">서버를 24시간 켜두지 않고, 쓸 때만 켜지는 방식으로 바꿔 비용을 크게 줄임</div>
+    </div>
+    <div class="card">
+      <span class="tag">(주)하마랩 · 2026.09 –</span>
+      <h3 style="margin-top:12px">해외 서비스 데이터 정합성</h3>
+      <p>싱가포르와 서울, 두 지역에 나뉜 데이터베이스 사이의 지연 시간을 직접 측정하고, 그 결과로 데이터를 어디서 읽을지 규칙을 설계했습니다.</p>
+      <div class="grid" style="grid-template-columns:1fr 1fr;gap:12px;margin-top:16px">
+        <div><div class="metric">2<small>개 리전</small></div><div class="mlabel">싱가포르 · 서울</div></div>
+        <div><div class="metric">2<small>개 서비스</small></div><div class="mlabel">교육 · 데이팅</div></div>
+      </div>
+      <div class="plain">방금 저장한 글이 새로고침해도 사라지지 않도록, 데이터가 가는 길을 정리</div>
+    </div>
+  </div>
+  <p style="margin-top:20px;font-size:14px">※ 기술적인 세부 내용은 이력서와 GitHub(github.com/2ghrms)에 정리되어 있습니다.</p>
+  <span class="pageno">05</span>
+</section>
+
+<!-- 06 수상 · 자격증 -->
+<section class="page">
+  <p class="kicker">Awards &amp; Certifications</p>
+  <h2>수상 · 자격증</h2>
+  <div class="grid" style="grid-template-columns:1.25fr 1fr">
+    <div class="card">
+      <h3 style="margin-bottom:16px">수상 9회</h3>
+      <div class="list">
+        <div class="d">2026.08</div><div class="n">CJ올리브네트웍스 AI CLOUD WAVE 1기 최우수상</div>
+        <div class="d">2025.11</div><div class="n">큐시즘 32기 최우수상 <span>· 사업계획서 플랫폼</span></div>
+        <div class="d">2025.11</div><div class="n">숭실대 IT 프로젝트 공모전 수상 <span>· 제휴 관리 앱</span></div>
+        <div class="d">2025.09</div><div class="n">LG × 큐시즘 산학 Best Practice Award</div>
+        <div class="d">2025.08</div><div class="n">스파르탄 위닝 창업캠프 우수상</div>
+        <div class="d">2025.07</div><div class="n">숭실대 컴퓨터학부 SW 공모전 금상</div>
+        <div class="d">2025.07</div><div class="n">UMC 8기 데모데이 특별상</div>
+        <div class="d">2024.12</div><div class="n">ICT 영어 프로젝트 발표 대회 은상</div>
+        <div class="d">2021.11</div><div class="n">SPLUG 세미나 은상</div>
+      </div>
+    </div>
+    <div class="card">
+      <h3 style="margin-bottom:16px">자격증 7개</h3>
+      <div class="list">
+        <div class="d">2026.09</div><div class="n">정보처리기사</div>
+        <div class="d">2026.09</div><div class="n">AWS Certified AI Practitioner</div>
+        <div class="d">2026.08</div><div class="n">AWS Solutions Architect – Associate</div>
+        <div class="d">2026.05</div><div class="n">TOPCIT <span>· 752점, 수준 4</span></div>
+        <div class="d">2025.10</div><div class="n">AWS Certified Cloud Practitioner</div>
+        <div class="d">2025.09</div><div class="n">SQLD</div>
+        <div class="d">2023.06</div><div class="n">프로그래밍 기능사</div>
+      </div>
+    </div>
+  </div>
+  <span class="pageno">06</span>
+</section>
+
+<!-- 07 CLOSING -->
+<section class="page dark">
+  <p class="kicker">Why Cloud Service Engineer</p>
+  <h2 style="font-size:44px;margin-top:40px">고객의 클라우드를<br>"근거 있는 결정"으로 운영하겠습니다</h2>
+  <div class="grid" style="grid-template-columns:repeat(3,1fr);margin-top:48px">
+    <div><h3 style="color:#fff">측정 먼저</h3><p>여러 방식을 같은 조건에서 비교하고, 직접 잰 숫자로 결정합니다</p></div>
+    <div><h3 style="color:#fff">원인까지</h3><p>오류가 나면 겉으로 보이는 증상이 아니라 진짜 원인을 찾아 고칩니다</p></div>
+    <div><h3 style="color:#fff">함께 성장</h3><p>멘토링과 파트장 경험처럼, 아는 것을 나누며 팀과 함께 성장합니다</p></div>
+  </div>
+  <p style="position:absolute;left:72px;bottom:64px;font-size:16px">이호근 · github.com/2ghrms</p>
+  <span class="pageno">07</span>
+</section>
+
+</body>
+</html>
