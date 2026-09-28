@@ -292,7 +292,7 @@
 ### 🏅 활동 & 배지
 <div style="text-align: left; margin-top: 15px; margin-left: 15px;"> 
     <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=2ghrms&show_icons=true&hide_border=true&theme=nord" height="150"/>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> </br>
     <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
     <a href="https://www.credly.com/badges/c15144f8-cf55-472d-abd5-f5d253456ec1/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="display: inline-block; margin-right: 10px;" height="130"/></a>
     <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
