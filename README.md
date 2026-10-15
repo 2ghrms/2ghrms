@@ -17,7 +17,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 **Languages & Backend Frameworks**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 **Databases, Brokers & Search Engines**
 
@@ -26,6 +26,10 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-808080?style=flat-square&logo=Oracle&logoColor=white) ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FF6C37?style=flat-square&logo=Rancher&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FF224A?style=flat-square&logo=Argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white)
+
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-E25822?style=flat-square&logo=Grafana&logoColor=white)
 
 ---
 
