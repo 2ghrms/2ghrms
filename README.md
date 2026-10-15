@@ -165,6 +165,8 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
     > Led the entire lifecycle, from service ideation and development to over a year of live service operation
     > 
+    > Developed the Android app based on MVVM architecture
+    > 
     > Implemented 4-role RBAC with Spring Security and built a back-office admin environment
     > 
     > Set up production CI/CD with k3s and ArgoCD

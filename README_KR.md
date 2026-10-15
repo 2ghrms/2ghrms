@@ -165,6 +165,8 @@
 
     > 서비스 기획부터 개발, 1년 이상의 실서비스 운영까지 전 과정 주도
     > 
+    > MVVM 아키텍처 기반 Android 앱 개발
+    > 
     > Spring Security 기반 4가지 Role RBAC 설계 및 백오피스 환경 구축
     > 
     > k3s + ArgoCD 기반 운영환경 CI/CD 구축
