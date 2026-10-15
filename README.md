@@ -29,7 +29,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 **Monitoring & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-E25822?style=flat-square&logo=Grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-E25822?style=flat-square&logo=Grafana&logoColor=white)
 
 ---
 
@@ -137,28 +137,23 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ### 📚 Achievements & Projects
 
-<details open>                                                                   
-  <summary><strong>CJ AI Cloudwave Cohort 1, PM & Full-Stack Developer</strong> |  
-  AUG 2026</summary>                                                               
-                                                                                   
-  - **Award**: CJ Olive Networks AI Cloud Wave Cohort 1 — Excellence Award, AUG    
-  2026                                                                             
-  - **Overview**: Designed and built an AIOps pipeline — from observability and    
-  ML-based anomaly detection to AI agent diagnosis — on a simulated MSA replica of 
-  the Olive Young Global flash-sale service                                        
-                                                                                   
-      > Backend/Frontend · Observability Agent · Load Test Design · ML-based       
-  Incident Detection
-      >
-      > Directed architecture across 8 repositories, tracked through 63 logged design decisions for fully parallel team development
-      >
-      > Cut recurring alert noise 94% (32 → 2) by rewriting mis-firing monitoring rules
-      >
-      > Designed a 36-hour load test peaking at 4,250 rps with a region-derived dual-peak traffic curve
-      >
-      > Raised ML anomaly-detection recall 3x and cut false positives 7x through algorithm tuning
-      >
-      > Cut repeat-incident diagnosis latency up to 169x with a signature-based verdict cache
+<details open>
+<summary><strong>CJ AI Cloudwave Cohort 1, PM & Full-Stack Developer</strong> | AUG 2026</summary>
+
+- **Award**: CJ Olive Networks AI Cloud Wave Cohort 1 — Excellence Award, AUG 2026
+- **Overview**: Designed and built an AIOps pipeline — from observability and ML-based anomaly detection to AI agent diagnosis — on a simulated MSA replica of the Olive Young Global flash-sale service
+
+    > Backend/Frontend · Observability Agent · Load Test Design · ML-based Incident Detection
+    >
+    > Directed architecture across 8 repositories, tracked through 63 logged design decisions for fully parallel team development
+    >
+    > Cut recurring alert noise 94% (32 → 2) by rewriting mis-firing monitoring rules
+    >
+    > Designed a 36-hour load test peaking at 4,250 rps with a region-derived dual-peak traffic curve
+    >
+    > Raised ML anomaly-detection recall 3x and cut false positives 7x through algorithm tuning
+    >
+    > Cut repeat-incident diagnosis latency up to 169x with a signature-based verdict cache
 
 </details>
 
@@ -176,7 +171,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
     > 
     > Set up production CI/CD with k3s and ArgoCD
     > 
-    > Built monitoring with Grafana Alloy and Grafana
+    > Built monitoring with Grafana Alloy and Grafana, with integrated alert rules enabling rollback-based remediation within 10 minutes
 
 </details>
 

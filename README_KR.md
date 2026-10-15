@@ -29,7 +29,7 @@
 
 **모니터링 & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-E25822?style=flat-square&logo=Grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=Grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-E25822?style=flat-square&logo=Grafana&logoColor=white)
 
 ---
 
@@ -143,19 +143,16 @@
 - **수상**: CJ 올리브네트웍스 AI Cloud Wave 1기 최우수상, 2026.08
 - **개요**: 올리브영 글로벌 플래시세일 서비스를 재현한 MSA 위에 관측·이상탐지·AI 에이전트 진단까지 이어지는 AIOps 파이프라인을 설계·구축
 
-    > 백엔드·프론트엔드 · 옵저빌리티 에이전트 · 부하테스트 설계 · ML 기반        
-  인시던트 탐지 담당                                                                    
-    >                                                                            
-    > 8개 저장소를 아우르는 전체 아키텍처를 설계하고, 결정 63건을 로그로 체계화해
-  팀 간 완전 병렬 개발 실현                                                        
-    >                                                                            
-    > 오발 알림 규칙을 재작성해 상시 알림을 32건→2건(94%↓)으로 감소              
-    >                                                                            
-    > 지역별 시간대 오프셋 기반 이중 봉우리 곡선으로 최대 4,250rps 규모의 36시간 
-  부하테스트 설계                                                                  
-    >                                                                            
-    > ML 알고리즘 튜닝으로 이상탐지 재현율 3배 향상, 오탐 7배 감소               
-    >                                                                            
+    > 백엔드·프론트엔드 · 옵저빌리티 에이전트 · 부하테스트 설계 · ML 기반 인시던트 탐지 담당
+    >
+    > 8개 저장소를 아우르는 전체 아키텍처를 설계하고, 결정 63건을 로그로 체계화해 팀 간 완전 병렬 개발 실현
+    >
+    > 오발 알림 규칙을 재작성해 상시 알림을 32건→2건(94%↓)으로 감소
+    >
+    > 지역별 시간대 오프셋 기반 이중 봉우리 곡선으로 최대 4,250rps 규모의 36시간 부하테스트 설계
+    >
+    > ML 알고리즘 튜닝으로 이상탐지 재현율 3배 향상, 오탐 7배 감소
+    >
     > 시그니처 기반 판정 캐시로 반복 인시던트 재진단 지연 최대 169배 단축
 
 </details>
@@ -174,7 +171,7 @@
     > 
     > k3s + ArgoCD 기반 운영환경 CI/CD 구축
     > 
-    > Grafana Alloy, Grafana 기반 모니터링 구축
+    > Grafana Alloy, Grafana 기반 모니터링 구축 및 알림 규칙 연동으로 장애 발생 시 10분 내 롤백 조치 체계 마련
 
 </details>
 
