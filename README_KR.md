@@ -165,7 +165,7 @@
 
     > 서비스 기획부터 안드로이드 및 백엔드 개발까지, 프로젝트 전 과정 주도
     > 
-    > Spring Boot 기반 REST API 설계
+    > 1년 이상 실서비스 운영
     > 
     > Spring Security 기반 4가지 Role RBAC 설계 및 백오피스 환경 구축
     > 

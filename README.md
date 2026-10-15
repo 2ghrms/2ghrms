@@ -165,7 +165,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
     > Spearheaded the entire project lifecycle, spanning from service ideation to Android and backend development
     > 
-    > Built REST APIs with Spring Boot
+    > Operated the live service for over a year
     > 
     > Implemented 4-role RBAC with Spring Security and built a back-office admin environment
     > 
