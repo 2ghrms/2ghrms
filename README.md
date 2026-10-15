@@ -163,9 +163,7 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 - **Award**: Soongsil University IT Project Competition (Service Launch & Operation), NOV 2025
 - **Overview**: All-in-one partnership management platform between university students and local businesses ([Play Store Link](https://play.google.com/store/apps/details?id=com.ssu.assu))
 
-    > Spearheaded the entire project lifecycle, spanning from service ideation to Android and backend development
-    > 
-    > Operated the live service for over a year
+    > Led the entire lifecycle, from service ideation and development to over a year of live service operation
     > 
     > Implemented 4-role RBAC with Spring Security and built a back-office admin environment
     > 
