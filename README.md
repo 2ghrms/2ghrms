@@ -160,24 +160,6 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
       >
       > Cut repeat-incident diagnosis latency up to 169x with a signature-based verdict cache
 
-<details open>
-<summary><strong>Team Starlight, Backend Developer</strong> | OCT 2025 - Present</summary>
-
-- **Award**: KUSITMS 32nd Best Prize
-- **Overview**: Business plan platform for early-stage startups ([Web Link](https://www.starlight-official.co.kr/))
-
-    > Introduced hexagonal architecture
-    > 
-    > Built supervisor-agent and RAG-based report generation with Spring AI
-    > 
-    > Contributed to the Spring AI open-source repository ([Issue #4754](https://github.com/spring-projects/spring-ai/issues/4754))
-    > 
-    > Designed for reliability using the Circuit Breaker pattern
-    > 
-    > Reduced report generation time by 40% via parallel agent execution with Java threads
-    > 
-    > Cut API calls by 90% and improved average query speed by 15% through query analysis
-
 </details>
 
 <details open>
@@ -193,6 +175,28 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
     > Implemented 4-role RBAC with Spring Security and built a back-office admin environment
     > 
     > Set up production CI/CD with k3s and ArgoCD
+    > 
+    > Built monitoring with Grafana Alloy and Grafana
+
+</details>
+
+<details>
+<summary><strong>Team Starlight, Backend Developer</strong> | OCT 2025 - SEP 2026</summary>
+
+- **Award**: KUSITMS 32nd Best Prize
+- **Overview**: Business plan platform for early-stage startups ([Web Link](https://www.starlight-official.co.kr/))
+
+    > Introduced hexagonal architecture
+    > 
+    > Built supervisor-agent and RAG-based report generation with Spring AI
+    > 
+    > Contributed to the Spring AI open-source repository ([Issue #4754](https://github.com/spring-projects/spring-ai/issues/4754))
+    > 
+    > Designed for reliability using the Circuit Breaker pattern
+    > 
+    > Reduced report generation time by 40% via parallel agent execution with Java threads
+    > 
+    > Cut API calls by 90% and improved average query speed by 15% through query analysis
 
 </details>
 

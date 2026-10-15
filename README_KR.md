@@ -161,7 +161,25 @@
 </details>
 
 <details open>
-<summary><strong>Team Starlight, 백엔드 개발자</strong> | 2025.10 - 진행 중</summary>
+<summary><strong>Team ASSU, 풀스택 개발자 (Android + Spring Boot)</strong> | 2025.05 - 진행 중</summary>
+
+- **수상**: 숭실대 IT 프로젝트 공모전 수상, 2025.11
+- **개요**: 대학생과 지역 상권을 연결하는 올인원 제휴 관리 플랫폼 ([Play Store 링크](https://play.google.com/store/apps/details?id=com.ssu.assu))
+
+    > 서비스 기획부터 안드로이드 및 백엔드 개발까지, 프로젝트 전 과정 주도
+    > 
+    > Spring Boot 기반 REST API 설계
+    > 
+    > Spring Security 기반 4가지 Role RBAC 설계 및 백오피스 환경 구축
+    > 
+    > k3s + ArgoCD 기반 운영환경 CI/CD 구축
+    > 
+    > Grafana Alloy, Grafana 기반 모니터링 구축
+
+</details>
+
+<details>
+<summary><strong>Team Starlight, 백엔드 개발자</strong> | 2025.10 - 2026.09</summary>
 
 - **수상**: 큐시즘 32기 최우수상, 2025.11
 - **개요**: 초기 스타트업을 위한 사업계획서 플랫폼 ([웹 링크](https://www.starlight-official.co.kr/))
@@ -177,22 +195,6 @@
     > Java Thread 기반 병렬 에이전트 실행으로 리포트 생성 시간 40% 단축
     > 
     > 쿼리 분석을 통해 쿼리 호출 횟수 90% 감소, 쿼리 평균 속도 15% 개선
-
-</details>
-
-<details open>
-<summary><strong>Team ASSU, 풀스택 개발자 (Android + Spring Boot)</strong> | 2025.05 - 진행 중</summary>
-
-- **수상**: 숭실대 IT 프로젝트 공모전 수상, 2025.11
-- **개요**: 대학생과 지역 상권을 연결하는 올인원 제휴 관리 플랫폼 ([Play Store 링크](https://play.google.com/store/apps/details?id=com.ssu.assu))
-
-    > 서비스 기획부터 안드로이드 및 백엔드 개발까지, 프로젝트 전 과정 주도
-    > 
-    > Spring Boot 기반 REST API 설계
-    > 
-    > Spring Security 기반 4가지 Role RBAC 설계 및 백오피스 환경 구축
-    > 
-    > k3s + ArgoCD 기반 운영환경 CI/CD 구축
 
 </details>
 
