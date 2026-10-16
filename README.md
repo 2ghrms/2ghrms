@@ -39,11 +39,11 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <summary><strong>Hama Lab Co., Ltd., Backend Developer</strong> | SEP 2026 - Present</summary>
 
 - Performing an internship as a developer on the backend team
-- **Key work**: Designed and implemented backend APIs for two global services (education / dating)
-  - Ensured data consistency under concurrent requests with CAS-based idempotency and transaction separation (`REQUIRES_NEW`)
-  - Designed a Master-Slave DB routing architecture across the Singapore and Seoul regions, guaranteeing read-after-write consistency based on measured latency data
-  - Built a Prometheus·Loki-based observability stack to visualize API and DB metrics, driving data-backed performance decisions
-  - Built data review and generation pipelines for the services, reducing review and generation time
+- **Key work**: Designed and implemented backend APIs for two global services (education / dating), serving 62K+ production users
+  - Ensured data consistency under concurrent requests with CAS-based idempotency and transaction separation (`REQUIRES_NEW`) → 0 duplicate processing
+  - Designed a Master-Slave DB routing architecture across the Singapore and Seoul regions, guaranteeing read-after-write consistency based on measured latency data (55–77ms lag; SG read p95 3.9s → tens of ms)
+  - Built a Prometheus·Loki-based observability stack to visualize API and DB metrics, driving data-backed performance decisions (9 SLO metrics, 10-min MTTR target)
+  - Built data review and generation pipelines for the services, reducing review and generation time (48 units × 6 locales, 49 videos)
 
 </details>
 
