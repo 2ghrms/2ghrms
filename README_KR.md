@@ -282,6 +282,7 @@
 ---
 
 ### 📜 자격증
+- **AWS Certified CloudOps Engineer – Associate** (SOA-C03) | 2026.10
 - **정보처리기사**, 한국산업인력공단 | 2026.09
 - **AWS Certified Solutions Architect – Associate** (SAA-C03) | 2026.08
 - **TOPCIT(소프트웨어 역량 검정 시험)** — 752점 • 수준 4 • 숙련자(문제해결형) | 2026.05
@@ -299,4 +300,5 @@
     <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
     <a href="https://www.credly.com/badges/c15144f8-cf55-472d-abd5-f5d253456ec1/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="display: inline-block; margin-right: 10px;" height="130"/></a>
     <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
+    <a href="https://www.credly.com/badges/180aae01-ba78-49d1-817b-248b23603397/public_url"><img src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer â Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>
