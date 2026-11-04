@@ -39,14 +39,20 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 <summary><strong>Hama Lab Co., Ltd., Backend Developer</strong> | SEP 2026 - Present</summary>
 
 - Performing an internship as a developer on the backend team
-- **Key work**: Designed and implemented backend APIs for two global services (education / dating), serving **62K+ production users**
+- **Overview**: Designed and implemented backend APIs for two global services (education / dating), serving **62K+ production users**
+- **Core API & data consistency**
   - **0 duplicate processing under concurrency**: CAS-based idempotency and transaction separation (`REQUIRES_NEW`) to keep data consistent across concurrent requests
   - **SG read p95 3.9s → tens of ms (55–77ms measured lag)**: Master-Slave DB routing across the Singapore and Seoul regions, guaranteeing read-after-write consistency on measured latency data
+- **Personalized learning-reminder delivery**
+  - **Per-user send time instead of a fixed 20:00 broadcast**: Weighted histogram (14-day half-life) over first-party signals (study activity, notification clicks), with safe fallback below confidence thresholds
+  - **150K-record load test at ~881 TPS**: Compute and dispatch split into two idempotent schedulers with ShedLock; load spread across 24h by iterating timezone slots
+  - **Query volume proportional to active users**: JDBC batching, N+1 removal, covering indexes, and dormant-user exclusion
+  - **Impact measured in numbers**: Custom metrics + Grafana dashboards and a holdout A/B lift analysis (z-test, auto-generated reports)
+- **Observability**
   - **9 SLO metrics, 10-min MTTR target**: Prometheus·Loki-based observability stack visualizing API and DB metrics, driving data-backed performance decisions
+- **Content data pipeline**
   - **48 units × 6 locales, 49 videos**: Data review and generation pipelines that reduce review and generation time
-  - **Personalized learning-reminder delivery, 150K-record load test at ~881 TPS**: Replaced the fixed 20:00 broadcast with per-user send times derived from first-party signals (study activity, notification clicks) via a 14-day half-life weighted histogram, with safe fallback below confidence thresholds
-    - Split compute and dispatch into two idempotent schedulers with ShedLock; spread load across 24h by iterating timezone slots, and cut query volume with JDBC batching, N+1 removal, covering indexes, and dormant-user exclusion
-    - Custom metrics + Grafana dashboards and a holdout A/B lift analysis (z-test, auto-generated reports) to measure the impact in numbers rather than estimates
+- **QA & certification**
   - **QA**: Partially automated app testing on emulators and verified test cases across the release cycle
   - **KC (RF) certification**: Prepared certification documents and supported the test lab process
 
