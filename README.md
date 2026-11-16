@@ -2,14 +2,14 @@
 
 ### 🙌 About Me
 
-Hi, I'm a 4th-year Computer Science student passionate about architectural trade-offs, robust server-side technologies, and cloud infrastructure.
+Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about architectural trade-offs, robust server-side technologies, and cloud infrastructure.
 
 ---
 
 ### 🎓 Education
 
-- OO University — B.S. in Computer Science Engineering | Spring 2021 - Present
-- OO University (USA) — Visiting Student in Computer Science | Spring 2026
+- Soongsil University — B.S. in Computer Science Engineering | Spring 2021 - Present
+- Illinois Institute of Technology — Visiting Student in Computer Science | Spring 2026
 
 ---
 
@@ -37,7 +37,7 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 
 <!-- TIL: when the topic changes, replace only this line (text and link) -->
 - **TIL (Currently Learning)**: [Oracle Database Administration II (1Z0-083)](https://believed-poinsettia-f0f.notion.site/1Z0-083-Oracle-Database-Administration-II-3f5b722de71e80ef8abdc57cf6a045e9), preparing for Oracle OCP | Since NOV 2026
-- **Study Archive**: CSE Major Courses & Gen Ed notes — Algorithms, Computer Networks, Operating Systems, Advanced Database Organization, Backend Development, Intro to LLM & ML, and more
+- **Study Archive**: [CSE Major Courses & Gen Ed](https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b) — Algorithms, Computer Networks, Operating Systems, Advanced Database Organization, Backend Development, Intro to LLM & ML, and more
 
 ---
 
@@ -67,11 +67,11 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details open>
-<summary><strong>OO University IT Support Committee, Backend Developer</strong> | AUG 2026 - Present</summary>
+<summary><strong>Soongsil University IT Support Committee, Backend Developer</strong> | AUG 2026 - Present</summary>
 
 - Maintaining backend features of the student council homepage
-- Owned the student-side features of the university's digital receipt service, developing and deploying new features
-- **Key work**: Revamped university portal OCR verification and migrated the legacy monolith to a Go-based serverless architecture
+- Owned the student-side features of **PASSU V3**, a digital receipt service, developing and deploying new features
+- **Key work**: Revamped u-Saint OCR verification and migrated the legacy monolith to a Go-based serverless architecture
   - **OCR failure rate 32.8% → 0%**: Benchmarked 4 recognition engines under identical conditions and switched to PP-OCRv5 with a structure-based parser
   - **5xx rate 6.67% → 0.29% and 73% higher throughput at 1,000 concurrent users**: Identified the bottleneck as DB connection count rather than DB performance, and resolved it with reserved concurrency
   - **~97% annual cost reduction vs. always-on servers (estimated)**: Serverless design with a self-hosted OCR model — reading 15,000 users costs about $1.6
@@ -89,16 +89,16 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details>
-<summary><strong>Tech Community during U.S. Visiting Program</strong> | JAN 2026 - MAY 2026</summary>
+<summary><strong>Illinois Institute of Technology (IIT) Tech Community</strong> | JAN 2026 - MAY 2026</summary>
 
-- **Association for Computing Machinery (ACM)** (Member) : Regular tech seminars and campus hackathon
+- **Association for Computing Machinery (ACM)** (Member) : Regular tech seminars and Scarlet Hawks hackathon
 - **Google Student Developers** (Member) : Google AI workshop
 - **Machine Learning Club** (Member) : LLM workshop and LeetCode problem-solving sessions
 
 </details>
 
 <details>
-<summary><strong>UMC (University MakeUs Challenge) — OO Univ. Chapter</strong> | SEP 2024 - FEB 2026</summary>
+<summary><strong>UMC (University MakeUs Challenge) — Soongsil Univ. Chapter</strong> | SEP 2024 - FEB 2026</summary>
 
 - **9th (Spring Boot Part Leader)**: Hosted framework study sessions, led backend code reviews, and speaker at chapter tech seminars.
 - **8th (Spring Boot Part Senior)**: Completed advanced backend workbooks and participated in core server-side development and studies.
@@ -132,21 +132,21 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details>
-<summary><strong>Campus Central Computer Club</strong> | MAR 2024 - AUG 2026</summary>
+<summary><strong>SSCC (Soongsil Central Computer Club)</strong> | MAR 2024 - AUG 2026</summary>
 
 - Participated in technical book clubs, AWS cloud infrastructure studies, and team software hackathons/competitions.
 
 </details>
 
 <details>
-<summary><strong>OO Univ IT College Student Council, Planning Director</strong> | JAN 2024 - DEC 2024</summary>
+<summary><strong>Soongsil Univ IT College Student Council, Planning Director</strong> | JAN 2024 - DEC 2024</summary>
 
 - Directed major student body activities, organized chapter tech seminars, and managed large-scale community events.
 
 </details>
 
 <details>
-<summary><strong>Campus Linux User Group</strong> | MAR 2021 - DEC 2021</summary>
+<summary><strong>SPLUG (Soongsil Power Linux User Group)</strong> | MAR 2021 - DEC 2021</summary>
 
 - Studied C-based Linux core systems and contributed to academic advancement through seminar presentations.
 
@@ -177,10 +177,10 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details open>
-<summary><strong>Partnership Platform Team, Full Stack Developer (Android + Spring Boot)</strong> | MAY 2025 - Present</summary>
+<summary><strong>Team ASSU, Full Stack Developer (Android + Spring Boot)</strong> | MAY 2025 - Present</summary>
 
-- **Award**: Campus IT Project Competition (Service Launch & Operation), NOV 2025
-- **Overview**: All-in-one partnership management platform between university students and local businesses (Released on Play Store)
+- **Award**: Soongsil University IT Project Competition (Service Launch & Operation), NOV 2025
+- **Overview**: All-in-one partnership management platform between university students and local businesses ([Play Store Link](https://play.google.com/store/apps/details?id=com.ssu.assu))
 
     > Led the entire lifecycle, from service ideation and development to over a year of live service operation
     > 
@@ -243,9 +243,9 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details>
-<summary><strong>Campus Startup Camp (Unithon)</strong> | AUG 2025</summary>
+<summary><strong>Spartan Winning Startup Camp (Unithon), Soongsil University</strong> | AUG 2025</summary>
 
-- **Award**: Excellence Award; Campus 2025 Pre-Startup Incubation Program
+- **Award**: Excellence Award; Soongsil University 2025 Pre-Startup Incubation Program
 - **Overview**: Online attachment doll-based child psychological counseling and care service
 
     > Full-stack development with Next.js, Spring Boot, and FastAPI
@@ -271,7 +271,7 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details>
-<summary><strong>Campus Software Competition</strong> | JUL 2025</summary>
+<summary><strong>Soongsil University Software Competition</strong> | JUL 2025</summary>
 
 - **Award**: 1st Place (Gold Prize)
 - **Overview**: Handwriting archiving web service with OCR-based text preservation for personal letters and memories
@@ -291,7 +291,7 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 </details>
 
 <details>
-<summary><strong>Seminar Achievement, Department Linux Club</strong> | NOV 2021</summary>
+<summary><strong>SPLUG Seminar Achievement, Soongsil University Linux Computer Science Club</strong> | NOV 2021</summary>
 
 - 2nd Place
 - `'Unity: 2D game programming' (Seminar Presentation and Code Cloning)`
@@ -316,4 +316,8 @@ Hi, I'm a 4th-year Computer Science student passionate about architectural trade
 <div style="text-align: left; margin-top: 15px; margin-left: 15px;"> 
     <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=2ghrms&show_icons=true&hide_border=true&theme=nord" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> </br>
+    <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
+    <a href="https://www.credly.com/badges/c15144f8-cf55-472d-abd5-f5d253456ec1/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="display: inline-block; margin-right: 10px;" height="130"/></a>
+    <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
+    <a href="https://www.credly.com/badges/180aae01-ba78-49d1-817b-248b23603397/public_url"><img src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer â Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>
