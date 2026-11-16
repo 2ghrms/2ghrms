@@ -33,6 +33,14 @@
 
 ---
 
+### 📝 학습 기록
+
+<!-- TIL: 주제가 바뀌면 이 줄(문구와 링크)만 교체 -->
+- **TIL (최근 공부)**: [Oracle Database Administration II (1Z0-083)](https://believed-poinsettia-f0f.notion.site/1Z0-083-Oracle-Database-Administration-II-3f5b722de71e80ef8abdc57cf6a045e9), Oracle OCP 자격 취득 준비 | 2026.11 ~
+- **학습 아카이브**: [CSE Major Courses & Gen Ed](https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b) — 알고리즘, 컴퓨터 네트워크, 운영체제, 고급 데이터베이스, 백엔드 개발, LLM·머신러닝 개론 등 전공·교양 과목 정리
+
+---
+
 ### 💼 활동 경험 및 경력
 
 <details open>
