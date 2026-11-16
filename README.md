@@ -33,20 +33,11 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ---
 
-### 📘 Study Notes
+### 📝 Study Notes
 
-**🎓 SSU CSE Major Courses & Gen Ed**
-
-Notes and summaries of major and general education courses at Soongsil University.
-
-[![Notion](https://img.shields.io/badge/View_on_Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b)
-
-<!-- TIL: when the topic changes, replace the description and the badge link below -->
-**🧠 TIL (Today I Learned)**
-
-Currently studying Oracle Database Administration II (1Z0-083) toward Oracle OCP certification.
-
-[![Notion](https://img.shields.io/badge/View_TIL_on_Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://believed-poinsettia-f0f.notion.site/3f5b722de71e80ef8abdc57cf6a045e9)
+<!-- TIL: when the topic changes, replace only this line (text and badge link) -->
+- **TIL (Currently Learning)**: [![Notion](https://img.shields.io/badge/1Z0--083_Oracle_DBA_II-000000?style=flat-square&logo=Notion&logoColor=white)](https://believed-poinsettia-f0f.notion.site/3f5b722de71e80ef8abdc57cf6a045e9) — Preparing for Oracle OCP | Since NOV 2026
+- **Study Archive**: [![Notion](https://img.shields.io/badge/CSE_Major_Courses_%26_Gen_Ed-000000?style=flat-square&logo=Notion&logoColor=white)](https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b) — Algorithms, Computer Networks, Network Programming, Advanced Database Organization, Backend Development, Data Analysis, and more
 
 ---
 
