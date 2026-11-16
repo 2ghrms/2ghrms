@@ -2,14 +2,14 @@
 
 ### 🙌 소개
 
-> 안녕하세요, 컴퓨터공학 전공 4학년 백엔드 개발자입니다. \
+> 안녕하세요, 숭실대학교 컴퓨터학부 4학년 이호근입니다. \
 > 기술 선택의 이유와 트레이드 오프를 중요하게 생각하며, Spring Boot 기반 서버 설계와 클라우드 인프라를 다룹니다.
 ---
 
 ### 🎓 학력
 
-- OO대학교 — 컴퓨터공학 전공 | 2021 봄학기 - 재학 중
-- 미국 OO대학교 — Computer Science 방문학생 | 2026 봄학기
+- 숭실대학교 — 컴퓨터학부 | 2021 봄학기 - 재학 중
+- Illinois Institute of Technology — Computer Science Major 방문학생 | 2026 봄학기
 
 ---
 
@@ -37,7 +37,7 @@
 
 <!-- TIL: 주제가 바뀌면 이 줄(문구와 링크)만 교체 -->
 - **TIL (최근 공부)**: [Oracle Database Administration II (1Z0-083)](https://believed-poinsettia-f0f.notion.site/1Z0-083-Oracle-Database-Administration-II-3f5b722de71e80ef8abdc57cf6a045e9), Oracle OCP 자격 취득 준비 | 2026.11 ~
-- **학습 아카이브**: 전공·교양 과목 노트 — 알고리즘, 컴퓨터 네트워크, 운영체제, 고급 데이터베이스, 백엔드 개발, LLM·머신러닝 개론 등 전공·교양 과목 정리
+- **학습 아카이브**: [CSE Major Courses & Gen Ed](https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b) — 알고리즘, 컴퓨터 네트워크, 운영체제, 고급 데이터베이스, 백엔드 개발, LLM·머신러닝 개론 등 전공·교양 과목 정리
 
 ---
 
@@ -67,11 +67,11 @@
 </details>
 
 <details open>
-<summary><strong>OO대학교 IT 지원위원회, 백엔드 개발자</strong> | 2026.08 - 진행 중</summary>
+<summary><strong>숭실대학교 IT 지원위원회, 백엔드 개발자</strong> | 2026.08 - 진행 중</summary>
 
 - 총학생회 홈페이지 백엔드 기능 유지보수
-- 교내 디지털 수령증 서비스의 학생 기능을 담당하여 신기능 개발 및 배포
-- **주요 업무**: 학교 포털 OCR 인증 개편 및 기존 모놀리식 애플리케이션을 Go 기반 서버리스 구조로 전환
+- 디지털 수령증 서비스 **PASSU V3**의 학생 기능을 담당하여 신기능 개발 및 배포
+- **주요 업무**: 유세인트 OCR 인증 개편 및 기존 모놀리식 애플리케이션을 Go 기반 서버리스 구조로 전환
   - **OCR 판독 실패율 32.8% → 0%**: 인식 엔진 4종을 같은 조건으로 비교해 PP-OCRv5와 구조 기반 파서로 교체
   - **동시 접속 1,000명 부하에서 5xx 6.67% → 0.29%, 처리량 73% 향상**: 병목이 DB 성능이 아닌 DB 연결 수임을 찾아내 예약 동시성(Reserved Concurrency)으로 해결
   - **상시 서버 대비 연간 비용 약 97% 절감 (추정)**: 서버리스 구조로 설계하고 OCR 모델은 자체 호스팅, 15,000명 판독 비용 약 $1.6
@@ -89,16 +89,16 @@
 </details>
 
 <details>
-<summary><strong>미국 방문학생 기간 테크 커뮤니티</strong> | 2026.01 - 2026.05</summary>
+<summary><strong>Illinois Institute of Technology (IIT) 테크 커뮤니티</strong> | 2026.01 - 2026.05</summary>
 
-- **Association for Computing Machinery (ACM)** : 정기 기술 세미나 및 교내 해커톤 참여
+- **Association for Computing Machinery (ACM)** : 정기 기술 세미나 및 Scarlet Hawks 해커톤 참여
 - **Google Student Developers** : Google AI 워크숍 참여
 - **Machine Learning Club** : LLM 워크숍 및 LeetCode 문제풀이 세션 참여
 
 </details>
 
 <details>
-<summary><strong>UMC (University MakeUs Challenge) — OO대 지부</strong> | 2024.09 - 2026.02</summary>
+<summary><strong>UMC (University MakeUs Challenge) — 숭실대 지부</strong> | 2024.09 - 2026.02</summary>
 
 - **9기 (Spring Boot 파트장)**: 스터디 진행, 백엔드 코드 리뷰 리드, 지부 기술 세미나 진행
 - **8기 (Spring Boot 파트 시니어)**: 심화 백엔드 학습 및 스터디 참여, 프로젝트 서버 개발
@@ -132,21 +132,21 @@
 </details>
 
 <details>
-<summary><strong>교내 중앙 컴퓨터 동아리</strong> | 2024.03 - 2026.08</summary>
+<summary><strong>SSCC (숭실대 중앙 컴퓨터 동아리)</strong> | 2024.03 - 2026.08</summary>
 
 - 기술 서적 스터디, AWS 클라우드 인프라 스터디, 팀 소프트웨어 해커톤/공모전 참여
 
 </details>
 
 <details>
-<summary><strong>OO대 IT대학 학생회, 기획국장</strong> | 2024.01 - 2024.12</summary>
+<summary><strong>숭실대 IT대학 학생회, 기획국장</strong> | 2024.01 - 2024.12</summary>
 
 - 학생회 활동 운영, 기술 세미나 운영, 대규모 커뮤니티 행사 기획
 
 </details>
 
 <details>
-<summary><strong>교내 리눅스 유저 그룹</strong> | 2021.03 - 2021.12</summary>
+<summary><strong>SPLUG (숭실대 리눅스 유저 그룹)</strong> | 2021.03 - 2021.12</summary>
 
 - C 기반 리눅스 학습 및 세미나 발표를 통한 학술 활동
 
@@ -177,10 +177,10 @@
 </details>
 
 <details open>
-<summary><strong>제휴 관리 플랫폼 팀, 풀스택 개발자 (Android + Spring Boot)</strong> | 2025.05 - 진행 중</summary>
+<summary><strong>Team ASSU, 풀스택 개발자 (Android + Spring Boot)</strong> | 2025.05 - 진행 중</summary>
 
-- **수상**: 교내 IT 프로젝트 공모전 수상, 2025.11
-- **개요**: 대학생과 지역 상권을 연결하는 올인원 제휴 관리 플랫폼 (Play Store 출시)
+- **수상**: 숭실대 IT 프로젝트 공모전 수상, 2025.11
+- **개요**: 대학생과 지역 상권을 연결하는 올인원 제휴 관리 플랫폼 ([Play Store 링크](https://play.google.com/store/apps/details?id=com.ssu.assu))
 
     > 서비스 기획부터 개발, 1년 이상의 실서비스 운영까지 전 과정 주도
     > 
@@ -243,9 +243,9 @@
 </details>
 
 <details>
-<summary><strong>교내 창업캠프 (유니톤)</strong> | 2025.08</summary>
+<summary><strong>스파르탄 위닝 창업캠프 (유니톤), 숭실대학교</strong> | 2025.08</summary>
 
-- **수상**: 우수상; 교내 2025 예비창업 인큐베이팅 프로그램 참여
+- **수상**: 우수상; 숭실대 2025 예비창업 인큐베이팅 프로그램 참여
 - **개요**: `아이코지`; 애착인형 기반 아동 심리상담 및 케어 서비스
 
     > Next.js / Spring Boot / FastAPI 기반 풀스택 개발
@@ -271,7 +271,7 @@
 </details>
 
 <details>
-<summary><strong>교내 소프트웨어 공모전</strong> | 2025.07</summary>
+<summary><strong>숭실대학교 컴퓨터학부 소프트웨어 공모전</strong> | 2025.07</summary>
 
 - **수상**: 금상
 - **개요**: `손마음`; 손편지와 추억을 보존하는 OCR 기반 손글씨 아카이빙 웹 서비스
@@ -291,7 +291,7 @@
 </details>
 
 <details>
-<summary><strong>2021 학과 소모임 세미나 수상</strong> | 2021.11</summary>
+<summary><strong>2021 SPLUG 세미나 수상, 숭실대 컴퓨터학부 소모임</strong> | 2021.11</summary>
 
 - **수상**: 은상
 - **개요**: `'Unity: 2D 게임 프로그래밍' (세미나 발표 및 코드 클로닝)`
@@ -316,4 +316,8 @@
 <div style="text-align: left; margin-top: 15px; margin-left: 15px;"> 
     <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=2ghrms&show_icons=true&hide_border=true&theme=nord" height="150"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2ghrms" style="display: inline-block; margin-right: 10px;" height="150"> </br>
+    <a href="https://www.credly.com/badges/3f8fc32e-5975-4e8a-ac88-03585e41ed8f/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="display: inline-block;" height="130"/></a>
+    <a href="https://www.credly.com/badges/c15144f8-cf55-472d-abd5-f5d253456ec1/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="display: inline-block; margin-right: 10px;" height="130"/></a>
+    <a href="https://www.credly.com/badges/20c77526-14ca-4ba4-8a46-f88cc23b838f/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
+    <a href="https://www.credly.com/badges/180aae01-ba78-49d1-817b-248b23603397/public_url"><img src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer â Associate" style="display: inline-block; margin-right: 10px;" height="130"/></a>
 </div>
