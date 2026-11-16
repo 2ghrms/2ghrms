@@ -33,6 +33,14 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ---
 
+### 📝 Study Notes
+
+<!-- TIL: replace only this line when the current topic changes -->
+- **TIL (Currently Learning)**: Oracle Database Administration II (1Z0-083), preparing for Oracle OCP | Since NOV 2026
+- **Study Archive**: [CSE Major Courses & Gen Ed](https://www.notion.so/c285ae611d74483e899dfe95bb254d6b) — Algorithms, Computer Networks, Network Programming, Advanced Database Organization, Backend Development, Data Analysis, and more
+
+---
+
 ### 💼 Experiences
 
 <details open>
