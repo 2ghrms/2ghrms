@@ -33,13 +33,20 @@
 
 ---
 
-### 📝 학습 기록
+### 📘 학습 기록
 
-<!-- TIL: 공부 주제가 바뀌면 아래 TIL 문구와 배지 링크만 교체 -->
-- **TIL (최근 공부)**: Oracle Database Administration II (1Z0-083), Oracle OCP 자격 취득 준비 | 2026.11 ~<br>
-  [![Notion](https://img.shields.io/badge/1Z0--083_Oracle_DBA_II-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/3f5b722de71e80ef8abdc57cf6a045e9)
-- **학습 아카이브**: 알고리즘, 컴퓨터 네트워크, 네트워크 프로그래밍, 고급 데이터베이스, 백엔드 개발, 데이터 분석 등 전공·교양 과목 정리<br>
-  [![Notion](https://img.shields.io/badge/CSE_Major_Courses_%26_Gen_Ed-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/c285ae611d74483e899dfe95bb254d6b)
+**🎓 숭실대 컴퓨터학부 전공·교양 과목 정리**
+
+숭실대학교에서 수강한 전공 및 교양 과목의 학습 내용을 정리한 노트입니다.
+
+[![Notion](https://img.shields.io/badge/View_on_Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://believed-poinsettia-f0f.notion.site/SSU-CSE-Major-Courses-Gen-Ed-c285ae611d74483e899dfe95bb254d6b)
+
+<!-- TIL: 주제가 바뀌면 아래 설명과 배지 링크만 교체 -->
+**🧠 TIL (Today I Learned)**
+
+Oracle OCP 자격 취득을 목표로 Oracle Database Administration II (1Z0-083)를 공부하고 있습니다.
+
+[![Notion](https://img.shields.io/badge/View_TIL_on_Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://believed-poinsettia-f0f.notion.site/3f5b722de71e80ef8abdc57cf6a045e9)
 
 ---
 
