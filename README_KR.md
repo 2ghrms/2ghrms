@@ -37,7 +37,7 @@
 
 <!-- TIL: 공부 주제가 바뀌면 이 줄만 교체 -->
 - **TIL (최근 공부)**: Oracle Database Administration II (1Z0-083), Oracle OCP 자격 취득 준비 | 2026.11 ~
-- **학습 아카이브**: [CSE Major Courses & Gen Ed](https://www.notion.so/c285ae611d74483e899dfe95bb254d6b) — 알고리즘, 컴퓨터 네트워크, 네트워크 프로그래밍, 고급 데이터베이스, 백엔드 개발, 데이터 분석 등 전공·교양 과목 정리
+- **학습 아카이브**: [![Notion](https://img.shields.io/badge/CSE_Major_Courses_%26_Gen_Ed-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/c285ae611d74483e899dfe95bb254d6b) — 알고리즘, 컴퓨터 네트워크, 네트워크 프로그래밍, 고급 데이터베이스, 백엔드 개발, 데이터 분석 등 전공·교양 과목 정리
 
 ---
 
