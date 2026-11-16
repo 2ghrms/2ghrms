@@ -35,9 +35,11 @@ Hi, I'm Hogeun Lee, — a 4th-year Computer Science student passionate about arc
 
 ### 📝 Study Notes
 
-<!-- TIL: replace only this line when the current topic changes -->
-- **TIL (Currently Learning)**: Oracle Database Administration II (1Z0-083), preparing for Oracle OCP | Since NOV 2026
-- **Study Archive**: [![Notion](https://img.shields.io/badge/CSE_Major_Courses_%26_Gen_Ed-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/c285ae611d74483e899dfe95bb254d6b) — Algorithms, Computer Networks, Network Programming, Advanced Database Organization, Backend Development, Data Analysis, and more
+<!-- TIL: when the current topic changes, replace the TIL text and its badge link below -->
+- **TIL (Currently Learning)**: Oracle Database Administration II (1Z0-083), preparing for Oracle OCP | Since NOV 2026<br>
+  [![Notion](https://img.shields.io/badge/1Z0--083_Oracle_DBA_II-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/3f5b722de71e80ef8abdc57cf6a045e9)
+- **Study Archive**: Algorithms, Computer Networks, Network Programming, Advanced Database Organization, Backend Development, Data Analysis, and more<br>
+  [![Notion](https://img.shields.io/badge/CSE_Major_Courses_%26_Gen_Ed-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/c285ae611d74483e899dfe95bb254d6b)
 
 ---
 
